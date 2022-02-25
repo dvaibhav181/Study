@@ -1,0 +1,13 @@
+C:\Vaibhav\Study\source\Exercises\SubArraysSumEqualsK\bin\Debug\netcoreapp3.1\SubArraysSumEqualsK.exe
+C:\Vaibhav\Study\source\Exercises\SubArraysSumEqualsK\bin\Debug\netcoreapp3.1\SubArraysSumEqualsK.deps.json
+C:\Vaibhav\Study\source\Exercises\SubArraysSumEqualsK\bin\Debug\netcoreapp3.1\SubArraysSumEqualsK.runtimeconfig.json
+C:\Vaibhav\Study\source\Exercises\SubArraysSumEqualsK\bin\Debug\netcoreapp3.1\SubArraysSumEqualsK.runtimeconfig.dev.json
+C:\Vaibhav\Study\source\Exercises\SubArraysSumEqualsK\bin\Debug\netcoreapp3.1\SubArraysSumEqualsK.dll
+C:\Vaibhav\Study\source\Exercises\SubArraysSumEqualsK\bin\Debug\netcoreapp3.1\SubArraysSumEqualsK.pdb
+C:\Vaibhav\Study\source\Exercises\SubArraysSumEqualsK\obj\Debug\netcoreapp3.1\SubArraysSumEqualsK.csprojAssemblyReference.cache
+C:\Vaibhav\Study\source\Exercises\SubArraysSumEqualsK\obj\Debug\netcoreapp3.1\SubArraysSumEqualsK.csproj.CoreCompileInputs.cache
+C:\Vaibhav\Study\source\Exercises\SubArraysSumEqualsK\obj\Debug\netcoreapp3.1\SubArraysSumEqualsK.AssemblyInfoInputs.cache
+C:\Vaibhav\Study\source\Exercises\SubArraysSumEqualsK\obj\Debug\netcoreapp3.1\SubArraysSumEqualsK.AssemblyInfo.cs
+C:\Vaibhav\Study\source\Exercises\SubArraysSumEqualsK\obj\Debug\netcoreapp3.1\SubArraysSumEqualsK.dll
+C:\Vaibhav\Study\source\Exercises\SubArraysSumEqualsK\obj\Debug\netcoreapp3.1\SubArraysSumEqualsK.pdb
+C:\Vaibhav\Study\source\Exercises\SubArraysSumEqualsK\obj\Debug\netcoreapp3.1\SubArraysSumEqualsK.genruntimeconfig.cache

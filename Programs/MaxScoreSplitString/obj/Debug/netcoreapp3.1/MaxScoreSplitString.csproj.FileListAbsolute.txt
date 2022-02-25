@@ -1,0 +1,13 @@
+C:\Vaibhav\Study\source\Exercises\MaxScoreSplitString\obj\Debug\netcoreapp3.1\MaxScoreSplitString.csprojAssemblyReference.cache
+C:\Vaibhav\Study\source\Exercises\MaxScoreSplitString\obj\Debug\netcoreapp3.1\MaxScoreSplitString.csproj.CoreCompileInputs.cache
+C:\Vaibhav\Study\source\Exercises\MaxScoreSplitString\obj\Debug\netcoreapp3.1\MaxScoreSplitString.AssemblyInfoInputs.cache
+C:\Vaibhav\Study\source\Exercises\MaxScoreSplitString\obj\Debug\netcoreapp3.1\MaxScoreSplitString.AssemblyInfo.cs
+C:\Vaibhav\Study\source\Exercises\MaxScoreSplitString\bin\Debug\netcoreapp3.1\MaxScoreSplitString.exe
+C:\Vaibhav\Study\source\Exercises\MaxScoreSplitString\bin\Debug\netcoreapp3.1\MaxScoreSplitString.deps.json
+C:\Vaibhav\Study\source\Exercises\MaxScoreSplitString\bin\Debug\netcoreapp3.1\MaxScoreSplitString.runtimeconfig.json
+C:\Vaibhav\Study\source\Exercises\MaxScoreSplitString\bin\Debug\netcoreapp3.1\MaxScoreSplitString.runtimeconfig.dev.json
+C:\Vaibhav\Study\source\Exercises\MaxScoreSplitString\bin\Debug\netcoreapp3.1\MaxScoreSplitString.dll
+C:\Vaibhav\Study\source\Exercises\MaxScoreSplitString\bin\Debug\netcoreapp3.1\MaxScoreSplitString.pdb
+C:\Vaibhav\Study\source\Exercises\MaxScoreSplitString\obj\Debug\netcoreapp3.1\MaxScoreSplitString.dll
+C:\Vaibhav\Study\source\Exercises\MaxScoreSplitString\obj\Debug\netcoreapp3.1\MaxScoreSplitString.pdb
+C:\Vaibhav\Study\source\Exercises\MaxScoreSplitString\obj\Debug\netcoreapp3.1\MaxScoreSplitString.genruntimeconfig.cache

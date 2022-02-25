@@ -1,0 +1,13 @@
+C:\Vaibhav\Study\source\Exercises\RomanToInt\obj\Debug\netcoreapp3.1\RomanToInt.csprojAssemblyReference.cache
+C:\Vaibhav\Study\source\Exercises\RomanToInt\obj\Debug\netcoreapp3.1\RomanToInt.csproj.CoreCompileInputs.cache
+C:\Vaibhav\Study\source\Exercises\RomanToInt\obj\Debug\netcoreapp3.1\RomanToInt.AssemblyInfoInputs.cache
+C:\Vaibhav\Study\source\Exercises\RomanToInt\obj\Debug\netcoreapp3.1\RomanToInt.AssemblyInfo.cs
+C:\Vaibhav\Study\source\Exercises\RomanToInt\bin\Debug\netcoreapp3.1\RomanToInt.exe
+C:\Vaibhav\Study\source\Exercises\RomanToInt\bin\Debug\netcoreapp3.1\RomanToInt.deps.json
+C:\Vaibhav\Study\source\Exercises\RomanToInt\bin\Debug\netcoreapp3.1\RomanToInt.runtimeconfig.json
+C:\Vaibhav\Study\source\Exercises\RomanToInt\bin\Debug\netcoreapp3.1\RomanToInt.runtimeconfig.dev.json
+C:\Vaibhav\Study\source\Exercises\RomanToInt\bin\Debug\netcoreapp3.1\RomanToInt.dll
+C:\Vaibhav\Study\source\Exercises\RomanToInt\bin\Debug\netcoreapp3.1\RomanToInt.pdb
+C:\Vaibhav\Study\source\Exercises\RomanToInt\obj\Debug\netcoreapp3.1\RomanToInt.dll
+C:\Vaibhav\Study\source\Exercises\RomanToInt\obj\Debug\netcoreapp3.1\RomanToInt.pdb
+C:\Vaibhav\Study\source\Exercises\RomanToInt\obj\Debug\netcoreapp3.1\RomanToInt.genruntimeconfig.cache

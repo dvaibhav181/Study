@@ -1,0 +1,13 @@
+C:\Vaibhav\Study\source\Exercises\SumAllSubArrays\bin\Debug\netcoreapp3.1\SumAllSubArrays.exe
+C:\Vaibhav\Study\source\Exercises\SumAllSubArrays\bin\Debug\netcoreapp3.1\SumAllSubArrays.deps.json
+C:\Vaibhav\Study\source\Exercises\SumAllSubArrays\bin\Debug\netcoreapp3.1\SumAllSubArrays.runtimeconfig.json
+C:\Vaibhav\Study\source\Exercises\SumAllSubArrays\bin\Debug\netcoreapp3.1\SumAllSubArrays.runtimeconfig.dev.json
+C:\Vaibhav\Study\source\Exercises\SumAllSubArrays\bin\Debug\netcoreapp3.1\SumAllSubArrays.dll
+C:\Vaibhav\Study\source\Exercises\SumAllSubArrays\bin\Debug\netcoreapp3.1\SumAllSubArrays.pdb
+C:\Vaibhav\Study\source\Exercises\SumAllSubArrays\obj\Debug\netcoreapp3.1\SumAllSubArrays.csprojAssemblyReference.cache
+C:\Vaibhav\Study\source\Exercises\SumAllSubArrays\obj\Debug\netcoreapp3.1\SumAllSubArrays.csproj.CoreCompileInputs.cache
+C:\Vaibhav\Study\source\Exercises\SumAllSubArrays\obj\Debug\netcoreapp3.1\SumAllSubArrays.AssemblyInfoInputs.cache
+C:\Vaibhav\Study\source\Exercises\SumAllSubArrays\obj\Debug\netcoreapp3.1\SumAllSubArrays.AssemblyInfo.cs
+C:\Vaibhav\Study\source\Exercises\SumAllSubArrays\obj\Debug\netcoreapp3.1\SumAllSubArrays.dll
+C:\Vaibhav\Study\source\Exercises\SumAllSubArrays\obj\Debug\netcoreapp3.1\SumAllSubArrays.pdb
+C:\Vaibhav\Study\source\Exercises\SumAllSubArrays\obj\Debug\netcoreapp3.1\SumAllSubArrays.genruntimeconfig.cache

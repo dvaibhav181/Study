@@ -1,0 +1,13 @@
+C:\Vaibhav\Study\source\Exercises\Trie\bin\Debug\netcoreapp3.1\Trie.exe
+C:\Vaibhav\Study\source\Exercises\Trie\bin\Debug\netcoreapp3.1\Trie.deps.json
+C:\Vaibhav\Study\source\Exercises\Trie\bin\Debug\netcoreapp3.1\Trie.runtimeconfig.json
+C:\Vaibhav\Study\source\Exercises\Trie\bin\Debug\netcoreapp3.1\Trie.runtimeconfig.dev.json
+C:\Vaibhav\Study\source\Exercises\Trie\bin\Debug\netcoreapp3.1\Trie.dll
+C:\Vaibhav\Study\source\Exercises\Trie\bin\Debug\netcoreapp3.1\Trie.pdb
+C:\Vaibhav\Study\source\Exercises\Trie\obj\Debug\netcoreapp3.1\Trie.csprojAssemblyReference.cache
+C:\Vaibhav\Study\source\Exercises\Trie\obj\Debug\netcoreapp3.1\Trie.csproj.CoreCompileInputs.cache
+C:\Vaibhav\Study\source\Exercises\Trie\obj\Debug\netcoreapp3.1\Trie.AssemblyInfoInputs.cache
+C:\Vaibhav\Study\source\Exercises\Trie\obj\Debug\netcoreapp3.1\Trie.AssemblyInfo.cs
+C:\Vaibhav\Study\source\Exercises\Trie\obj\Debug\netcoreapp3.1\Trie.dll
+C:\Vaibhav\Study\source\Exercises\Trie\obj\Debug\netcoreapp3.1\Trie.pdb
+C:\Vaibhav\Study\source\Exercises\Trie\obj\Debug\netcoreapp3.1\Trie.genruntimeconfig.cache

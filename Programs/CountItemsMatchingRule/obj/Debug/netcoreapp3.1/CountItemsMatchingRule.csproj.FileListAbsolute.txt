@@ -1,0 +1,13 @@
+C:\Vaibhav\Study\source\Exercises\CountItemsMatchingRule\bin\Debug\netcoreapp3.1\CountItemsMatchingRule.exe
+C:\Vaibhav\Study\source\Exercises\CountItemsMatchingRule\bin\Debug\netcoreapp3.1\CountItemsMatchingRule.deps.json
+C:\Vaibhav\Study\source\Exercises\CountItemsMatchingRule\bin\Debug\netcoreapp3.1\CountItemsMatchingRule.runtimeconfig.json
+C:\Vaibhav\Study\source\Exercises\CountItemsMatchingRule\bin\Debug\netcoreapp3.1\CountItemsMatchingRule.runtimeconfig.dev.json
+C:\Vaibhav\Study\source\Exercises\CountItemsMatchingRule\bin\Debug\netcoreapp3.1\CountItemsMatchingRule.dll
+C:\Vaibhav\Study\source\Exercises\CountItemsMatchingRule\bin\Debug\netcoreapp3.1\CountItemsMatchingRule.pdb
+C:\Vaibhav\Study\source\Exercises\CountItemsMatchingRule\obj\Debug\netcoreapp3.1\CountItemsMatchingRule.csprojAssemblyReference.cache
+C:\Vaibhav\Study\source\Exercises\CountItemsMatchingRule\obj\Debug\netcoreapp3.1\CountItemsMatchingRule.csproj.CoreCompileInputs.cache
+C:\Vaibhav\Study\source\Exercises\CountItemsMatchingRule\obj\Debug\netcoreapp3.1\CountItemsMatchingRule.AssemblyInfoInputs.cache
+C:\Vaibhav\Study\source\Exercises\CountItemsMatchingRule\obj\Debug\netcoreapp3.1\CountItemsMatchingRule.AssemblyInfo.cs
+C:\Vaibhav\Study\source\Exercises\CountItemsMatchingRule\obj\Debug\netcoreapp3.1\CountItemsMatchingRule.dll
+C:\Vaibhav\Study\source\Exercises\CountItemsMatchingRule\obj\Debug\netcoreapp3.1\CountItemsMatchingRule.pdb
+C:\Vaibhav\Study\source\Exercises\CountItemsMatchingRule\obj\Debug\netcoreapp3.1\CountItemsMatchingRule.genruntimeconfig.cache

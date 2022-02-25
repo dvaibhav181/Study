@@ -1,0 +1,13 @@
+C:\Vaibhav\Study\source\Exercises\MaximumContSubArrK\bin\Debug\netcoreapp3.1\MaximumContSubArrK.exe
+C:\Vaibhav\Study\source\Exercises\MaximumContSubArrK\bin\Debug\netcoreapp3.1\MaximumContSubArrK.deps.json
+C:\Vaibhav\Study\source\Exercises\MaximumContSubArrK\bin\Debug\netcoreapp3.1\MaximumContSubArrK.runtimeconfig.json
+C:\Vaibhav\Study\source\Exercises\MaximumContSubArrK\bin\Debug\netcoreapp3.1\MaximumContSubArrK.runtimeconfig.dev.json
+C:\Vaibhav\Study\source\Exercises\MaximumContSubArrK\bin\Debug\netcoreapp3.1\MaximumContSubArrK.dll
+C:\Vaibhav\Study\source\Exercises\MaximumContSubArrK\bin\Debug\netcoreapp3.1\MaximumContSubArrK.pdb
+C:\Vaibhav\Study\source\Exercises\MaximumContSubArrK\obj\Debug\netcoreapp3.1\MaximumContSubArrK.csprojAssemblyReference.cache
+C:\Vaibhav\Study\source\Exercises\MaximumContSubArrK\obj\Debug\netcoreapp3.1\MaximumContSubArrK.csproj.CoreCompileInputs.cache
+C:\Vaibhav\Study\source\Exercises\MaximumContSubArrK\obj\Debug\netcoreapp3.1\MaximumContSubArrK.AssemblyInfoInputs.cache
+C:\Vaibhav\Study\source\Exercises\MaximumContSubArrK\obj\Debug\netcoreapp3.1\MaximumContSubArrK.AssemblyInfo.cs
+C:\Vaibhav\Study\source\Exercises\MaximumContSubArrK\obj\Debug\netcoreapp3.1\MaximumContSubArrK.dll
+C:\Vaibhav\Study\source\Exercises\MaximumContSubArrK\obj\Debug\netcoreapp3.1\MaximumContSubArrK.pdb
+C:\Vaibhav\Study\source\Exercises\MaximumContSubArrK\obj\Debug\netcoreapp3.1\MaximumContSubArrK.genruntimeconfig.cache

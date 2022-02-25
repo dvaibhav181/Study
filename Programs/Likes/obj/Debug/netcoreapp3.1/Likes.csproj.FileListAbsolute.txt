@@ -1,0 +1,13 @@
+C:\Vaibhav\Study\source\Exercises\Likes\bin\Debug\netcoreapp3.1\Likes.exe
+C:\Vaibhav\Study\source\Exercises\Likes\bin\Debug\netcoreapp3.1\Likes.deps.json
+C:\Vaibhav\Study\source\Exercises\Likes\bin\Debug\netcoreapp3.1\Likes.runtimeconfig.json
+C:\Vaibhav\Study\source\Exercises\Likes\bin\Debug\netcoreapp3.1\Likes.runtimeconfig.dev.json
+C:\Vaibhav\Study\source\Exercises\Likes\bin\Debug\netcoreapp3.1\Likes.dll
+C:\Vaibhav\Study\source\Exercises\Likes\bin\Debug\netcoreapp3.1\Likes.pdb
+C:\Vaibhav\Study\source\Exercises\Likes\obj\Debug\netcoreapp3.1\Likes.csprojAssemblyReference.cache
+C:\Vaibhav\Study\source\Exercises\Likes\obj\Debug\netcoreapp3.1\Likes.csproj.CoreCompileInputs.cache
+C:\Vaibhav\Study\source\Exercises\Likes\obj\Debug\netcoreapp3.1\Likes.AssemblyInfoInputs.cache
+C:\Vaibhav\Study\source\Exercises\Likes\obj\Debug\netcoreapp3.1\Likes.AssemblyInfo.cs
+C:\Vaibhav\Study\source\Exercises\Likes\obj\Debug\netcoreapp3.1\Likes.dll
+C:\Vaibhav\Study\source\Exercises\Likes\obj\Debug\netcoreapp3.1\Likes.pdb
+C:\Vaibhav\Study\source\Exercises\Likes\obj\Debug\netcoreapp3.1\Likes.genruntimeconfig.cache

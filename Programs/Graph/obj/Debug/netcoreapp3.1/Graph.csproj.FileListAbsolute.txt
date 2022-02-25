@@ -1,0 +1,13 @@
+C:\Vaibhav\Study\source\Exercises\Graph\bin\Debug\netcoreapp3.1\Graph.exe
+C:\Vaibhav\Study\source\Exercises\Graph\bin\Debug\netcoreapp3.1\Graph.deps.json
+C:\Vaibhav\Study\source\Exercises\Graph\bin\Debug\netcoreapp3.1\Graph.runtimeconfig.json
+C:\Vaibhav\Study\source\Exercises\Graph\bin\Debug\netcoreapp3.1\Graph.runtimeconfig.dev.json
+C:\Vaibhav\Study\source\Exercises\Graph\bin\Debug\netcoreapp3.1\Graph.dll
+C:\Vaibhav\Study\source\Exercises\Graph\bin\Debug\netcoreapp3.1\Graph.pdb
+C:\Vaibhav\Study\source\Exercises\Graph\obj\Debug\netcoreapp3.1\Graph.csprojAssemblyReference.cache
+C:\Vaibhav\Study\source\Exercises\Graph\obj\Debug\netcoreapp3.1\Graph.csproj.CoreCompileInputs.cache
+C:\Vaibhav\Study\source\Exercises\Graph\obj\Debug\netcoreapp3.1\Graph.AssemblyInfoInputs.cache
+C:\Vaibhav\Study\source\Exercises\Graph\obj\Debug\netcoreapp3.1\Graph.AssemblyInfo.cs
+C:\Vaibhav\Study\source\Exercises\Graph\obj\Debug\netcoreapp3.1\Graph.dll
+C:\Vaibhav\Study\source\Exercises\Graph\obj\Debug\netcoreapp3.1\Graph.pdb
+C:\Vaibhav\Study\source\Exercises\Graph\obj\Debug\netcoreapp3.1\Graph.genruntimeconfig.cache

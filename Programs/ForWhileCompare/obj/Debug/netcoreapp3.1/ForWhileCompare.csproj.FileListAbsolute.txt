@@ -1,0 +1,13 @@
+C:\Vaibhav\Study\source\Exercises\ForWhileCompare\bin\Debug\netcoreapp3.1\ForWhileCompare.exe
+C:\Vaibhav\Study\source\Exercises\ForWhileCompare\bin\Debug\netcoreapp3.1\ForWhileCompare.deps.json
+C:\Vaibhav\Study\source\Exercises\ForWhileCompare\bin\Debug\netcoreapp3.1\ForWhileCompare.runtimeconfig.json
+C:\Vaibhav\Study\source\Exercises\ForWhileCompare\bin\Debug\netcoreapp3.1\ForWhileCompare.runtimeconfig.dev.json
+C:\Vaibhav\Study\source\Exercises\ForWhileCompare\bin\Debug\netcoreapp3.1\ForWhileCompare.dll
+C:\Vaibhav\Study\source\Exercises\ForWhileCompare\bin\Debug\netcoreapp3.1\ForWhileCompare.pdb
+C:\Vaibhav\Study\source\Exercises\ForWhileCompare\obj\Debug\netcoreapp3.1\ForWhileCompare.csprojAssemblyReference.cache
+C:\Vaibhav\Study\source\Exercises\ForWhileCompare\obj\Debug\netcoreapp3.1\ForWhileCompare.csproj.CoreCompileInputs.cache
+C:\Vaibhav\Study\source\Exercises\ForWhileCompare\obj\Debug\netcoreapp3.1\ForWhileCompare.AssemblyInfoInputs.cache
+C:\Vaibhav\Study\source\Exercises\ForWhileCompare\obj\Debug\netcoreapp3.1\ForWhileCompare.AssemblyInfo.cs
+C:\Vaibhav\Study\source\Exercises\ForWhileCompare\obj\Debug\netcoreapp3.1\ForWhileCompare.dll
+C:\Vaibhav\Study\source\Exercises\ForWhileCompare\obj\Debug\netcoreapp3.1\ForWhileCompare.pdb
+C:\Vaibhav\Study\source\Exercises\ForWhileCompare\obj\Debug\netcoreapp3.1\ForWhileCompare.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Vaibhav\Study\source\Exercises\FindSmallestDivisor\bin\Debug\netcoreapp3.1\FindSmallestDivisor.exe
+C:\Vaibhav\Study\source\Exercises\FindSmallestDivisor\bin\Debug\netcoreapp3.1\FindSmallestDivisor.deps.json
+C:\Vaibhav\Study\source\Exercises\FindSmallestDivisor\bin\Debug\netcoreapp3.1\FindSmallestDivisor.runtimeconfig.json
+C:\Vaibhav\Study\source\Exercises\FindSmallestDivisor\bin\Debug\netcoreapp3.1\FindSmallestDivisor.runtimeconfig.dev.json
+C:\Vaibhav\Study\source\Exercises\FindSmallestDivisor\bin\Debug\netcoreapp3.1\FindSmallestDivisor.dll
+C:\Vaibhav\Study\source\Exercises\FindSmallestDivisor\bin\Debug\netcoreapp3.1\FindSmallestDivisor.pdb
+C:\Vaibhav\Study\source\Exercises\FindSmallestDivisor\obj\Debug\netcoreapp3.1\FindSmallestDivisor.csprojAssemblyReference.cache
+C:\Vaibhav\Study\source\Exercises\FindSmallestDivisor\obj\Debug\netcoreapp3.1\FindSmallestDivisor.csproj.CoreCompileInputs.cache
+C:\Vaibhav\Study\source\Exercises\FindSmallestDivisor\obj\Debug\netcoreapp3.1\FindSmallestDivisor.AssemblyInfoInputs.cache
+C:\Vaibhav\Study\source\Exercises\FindSmallestDivisor\obj\Debug\netcoreapp3.1\FindSmallestDivisor.AssemblyInfo.cs
+C:\Vaibhav\Study\source\Exercises\FindSmallestDivisor\obj\Debug\netcoreapp3.1\FindSmallestDivisor.dll
+C:\Vaibhav\Study\source\Exercises\FindSmallestDivisor\obj\Debug\netcoreapp3.1\FindSmallestDivisor.pdb
+C:\Vaibhav\Study\source\Exercises\FindSmallestDivisor\obj\Debug\netcoreapp3.1\FindSmallestDivisor.genruntimeconfig.cache

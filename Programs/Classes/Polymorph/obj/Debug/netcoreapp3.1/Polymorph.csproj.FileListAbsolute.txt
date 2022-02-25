@@ -1,0 +1,13 @@
+C:\Vaibhav\Study\source\Exercises\Classes\Polymorph\bin\Debug\netcoreapp3.1\Polymorph.exe
+C:\Vaibhav\Study\source\Exercises\Classes\Polymorph\bin\Debug\netcoreapp3.1\Polymorph.deps.json
+C:\Vaibhav\Study\source\Exercises\Classes\Polymorph\bin\Debug\netcoreapp3.1\Polymorph.runtimeconfig.json
+C:\Vaibhav\Study\source\Exercises\Classes\Polymorph\bin\Debug\netcoreapp3.1\Polymorph.runtimeconfig.dev.json
+C:\Vaibhav\Study\source\Exercises\Classes\Polymorph\bin\Debug\netcoreapp3.1\Polymorph.dll
+C:\Vaibhav\Study\source\Exercises\Classes\Polymorph\bin\Debug\netcoreapp3.1\Polymorph.pdb
+C:\Vaibhav\Study\source\Exercises\Classes\Polymorph\obj\Debug\netcoreapp3.1\Polymorph.csprojAssemblyReference.cache
+C:\Vaibhav\Study\source\Exercises\Classes\Polymorph\obj\Debug\netcoreapp3.1\Polymorph.csproj.CoreCompileInputs.cache
+C:\Vaibhav\Study\source\Exercises\Classes\Polymorph\obj\Debug\netcoreapp3.1\Polymorph.AssemblyInfoInputs.cache
+C:\Vaibhav\Study\source\Exercises\Classes\Polymorph\obj\Debug\netcoreapp3.1\Polymorph.AssemblyInfo.cs
+C:\Vaibhav\Study\source\Exercises\Classes\Polymorph\obj\Debug\netcoreapp3.1\Polymorph.dll
+C:\Vaibhav\Study\source\Exercises\Classes\Polymorph\obj\Debug\netcoreapp3.1\Polymorph.pdb
+C:\Vaibhav\Study\source\Exercises\Classes\Polymorph\obj\Debug\netcoreapp3.1\Polymorph.genruntimeconfig.cache

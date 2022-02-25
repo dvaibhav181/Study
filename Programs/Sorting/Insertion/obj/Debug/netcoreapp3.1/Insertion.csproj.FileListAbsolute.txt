@@ -1,0 +1,13 @@
+C:\Vaibhav\Study\source\Exercises\Sorting\Insertion\bin\Debug\netcoreapp3.1\Insertion.exe
+C:\Vaibhav\Study\source\Exercises\Sorting\Insertion\bin\Debug\netcoreapp3.1\Insertion.deps.json
+C:\Vaibhav\Study\source\Exercises\Sorting\Insertion\bin\Debug\netcoreapp3.1\Insertion.runtimeconfig.json
+C:\Vaibhav\Study\source\Exercises\Sorting\Insertion\bin\Debug\netcoreapp3.1\Insertion.runtimeconfig.dev.json
+C:\Vaibhav\Study\source\Exercises\Sorting\Insertion\bin\Debug\netcoreapp3.1\Insertion.dll
+C:\Vaibhav\Study\source\Exercises\Sorting\Insertion\bin\Debug\netcoreapp3.1\Insertion.pdb
+C:\Vaibhav\Study\source\Exercises\Sorting\Insertion\obj\Debug\netcoreapp3.1\Insertion.csprojAssemblyReference.cache
+C:\Vaibhav\Study\source\Exercises\Sorting\Insertion\obj\Debug\netcoreapp3.1\Insertion.csproj.CoreCompileInputs.cache
+C:\Vaibhav\Study\source\Exercises\Sorting\Insertion\obj\Debug\netcoreapp3.1\Insertion.AssemblyInfoInputs.cache
+C:\Vaibhav\Study\source\Exercises\Sorting\Insertion\obj\Debug\netcoreapp3.1\Insertion.AssemblyInfo.cs
+C:\Vaibhav\Study\source\Exercises\Sorting\Insertion\obj\Debug\netcoreapp3.1\Insertion.dll
+C:\Vaibhav\Study\source\Exercises\Sorting\Insertion\obj\Debug\netcoreapp3.1\Insertion.pdb
+C:\Vaibhav\Study\source\Exercises\Sorting\Insertion\obj\Debug\netcoreapp3.1\Insertion.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Vaibhav\Study\source\Exercises\FrequencyQueries\bin\Debug\netcoreapp3.1\FrequencyQueries.exe
+C:\Vaibhav\Study\source\Exercises\FrequencyQueries\bin\Debug\netcoreapp3.1\FrequencyQueries.deps.json
+C:\Vaibhav\Study\source\Exercises\FrequencyQueries\bin\Debug\netcoreapp3.1\FrequencyQueries.runtimeconfig.json
+C:\Vaibhav\Study\source\Exercises\FrequencyQueries\bin\Debug\netcoreapp3.1\FrequencyQueries.runtimeconfig.dev.json
+C:\Vaibhav\Study\source\Exercises\FrequencyQueries\bin\Debug\netcoreapp3.1\FrequencyQueries.dll
+C:\Vaibhav\Study\source\Exercises\FrequencyQueries\bin\Debug\netcoreapp3.1\FrequencyQueries.pdb
+C:\Vaibhav\Study\source\Exercises\FrequencyQueries\obj\Debug\netcoreapp3.1\FrequencyQueries.csprojAssemblyReference.cache
+C:\Vaibhav\Study\source\Exercises\FrequencyQueries\obj\Debug\netcoreapp3.1\FrequencyQueries.csproj.CoreCompileInputs.cache
+C:\Vaibhav\Study\source\Exercises\FrequencyQueries\obj\Debug\netcoreapp3.1\FrequencyQueries.AssemblyInfoInputs.cache
+C:\Vaibhav\Study\source\Exercises\FrequencyQueries\obj\Debug\netcoreapp3.1\FrequencyQueries.AssemblyInfo.cs
+C:\Vaibhav\Study\source\Exercises\FrequencyQueries\obj\Debug\netcoreapp3.1\FrequencyQueries.dll
+C:\Vaibhav\Study\source\Exercises\FrequencyQueries\obj\Debug\netcoreapp3.1\FrequencyQueries.pdb
+C:\Vaibhav\Study\source\Exercises\FrequencyQueries\obj\Debug\netcoreapp3.1\FrequencyQueries.genruntimeconfig.cache

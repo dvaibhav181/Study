@@ -1,0 +1,13 @@
+C:\Vaibhav\Study\source\Exercises\Classes\StopWatch\bin\Debug\netcoreapp3.1\StopWatch.exe
+C:\Vaibhav\Study\source\Exercises\Classes\StopWatch\bin\Debug\netcoreapp3.1\StopWatch.deps.json
+C:\Vaibhav\Study\source\Exercises\Classes\StopWatch\bin\Debug\netcoreapp3.1\StopWatch.runtimeconfig.json
+C:\Vaibhav\Study\source\Exercises\Classes\StopWatch\bin\Debug\netcoreapp3.1\StopWatch.runtimeconfig.dev.json
+C:\Vaibhav\Study\source\Exercises\Classes\StopWatch\bin\Debug\netcoreapp3.1\StopWatch.dll
+C:\Vaibhav\Study\source\Exercises\Classes\StopWatch\bin\Debug\netcoreapp3.1\StopWatch.pdb
+C:\Vaibhav\Study\source\Exercises\Classes\StopWatch\obj\Debug\netcoreapp3.1\StopWatch.csprojAssemblyReference.cache
+C:\Vaibhav\Study\source\Exercises\Classes\StopWatch\obj\Debug\netcoreapp3.1\StopWatch.csproj.CoreCompileInputs.cache
+C:\Vaibhav\Study\source\Exercises\Classes\StopWatch\obj\Debug\netcoreapp3.1\StopWatch.AssemblyInfoInputs.cache
+C:\Vaibhav\Study\source\Exercises\Classes\StopWatch\obj\Debug\netcoreapp3.1\StopWatch.AssemblyInfo.cs
+C:\Vaibhav\Study\source\Exercises\Classes\StopWatch\obj\Debug\netcoreapp3.1\StopWatch.dll
+C:\Vaibhav\Study\source\Exercises\Classes\StopWatch\obj\Debug\netcoreapp3.1\StopWatch.pdb
+C:\Vaibhav\Study\source\Exercises\Classes\StopWatch\obj\Debug\netcoreapp3.1\StopWatch.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Vaibhav\Study\source\Exercises\MarkAndToys\bin\Debug\netcoreapp3.1\MarkAndToys.exe
+C:\Vaibhav\Study\source\Exercises\MarkAndToys\bin\Debug\netcoreapp3.1\MarkAndToys.deps.json
+C:\Vaibhav\Study\source\Exercises\MarkAndToys\bin\Debug\netcoreapp3.1\MarkAndToys.runtimeconfig.json
+C:\Vaibhav\Study\source\Exercises\MarkAndToys\bin\Debug\netcoreapp3.1\MarkAndToys.runtimeconfig.dev.json
+C:\Vaibhav\Study\source\Exercises\MarkAndToys\bin\Debug\netcoreapp3.1\MarkAndToys.dll
+C:\Vaibhav\Study\source\Exercises\MarkAndToys\bin\Debug\netcoreapp3.1\MarkAndToys.pdb
+C:\Vaibhav\Study\source\Exercises\MarkAndToys\obj\Debug\netcoreapp3.1\MarkAndToys.csprojAssemblyReference.cache
+C:\Vaibhav\Study\source\Exercises\MarkAndToys\obj\Debug\netcoreapp3.1\MarkAndToys.csproj.CoreCompileInputs.cache
+C:\Vaibhav\Study\source\Exercises\MarkAndToys\obj\Debug\netcoreapp3.1\MarkAndToys.AssemblyInfoInputs.cache
+C:\Vaibhav\Study\source\Exercises\MarkAndToys\obj\Debug\netcoreapp3.1\MarkAndToys.AssemblyInfo.cs
+C:\Vaibhav\Study\source\Exercises\MarkAndToys\obj\Debug\netcoreapp3.1\MarkAndToys.dll
+C:\Vaibhav\Study\source\Exercises\MarkAndToys\obj\Debug\netcoreapp3.1\MarkAndToys.pdb
+C:\Vaibhav\Study\source\Exercises\MarkAndToys\obj\Debug\netcoreapp3.1\MarkAndToys.genruntimeconfig.cache

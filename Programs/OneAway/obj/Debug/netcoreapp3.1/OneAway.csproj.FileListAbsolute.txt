@@ -1,0 +1,13 @@
+C:\Vaibhav\Study\source\Exercises\OneAway\bin\Debug\netcoreapp3.1\OneAway.exe
+C:\Vaibhav\Study\source\Exercises\OneAway\bin\Debug\netcoreapp3.1\OneAway.deps.json
+C:\Vaibhav\Study\source\Exercises\OneAway\bin\Debug\netcoreapp3.1\OneAway.runtimeconfig.json
+C:\Vaibhav\Study\source\Exercises\OneAway\bin\Debug\netcoreapp3.1\OneAway.runtimeconfig.dev.json
+C:\Vaibhav\Study\source\Exercises\OneAway\bin\Debug\netcoreapp3.1\OneAway.dll
+C:\Vaibhav\Study\source\Exercises\OneAway\bin\Debug\netcoreapp3.1\OneAway.pdb
+C:\Vaibhav\Study\source\Exercises\OneAway\obj\Debug\netcoreapp3.1\OneAway.csprojAssemblyReference.cache
+C:\Vaibhav\Study\source\Exercises\OneAway\obj\Debug\netcoreapp3.1\OneAway.csproj.CoreCompileInputs.cache
+C:\Vaibhav\Study\source\Exercises\OneAway\obj\Debug\netcoreapp3.1\OneAway.AssemblyInfoInputs.cache
+C:\Vaibhav\Study\source\Exercises\OneAway\obj\Debug\netcoreapp3.1\OneAway.AssemblyInfo.cs
+C:\Vaibhav\Study\source\Exercises\OneAway\obj\Debug\netcoreapp3.1\OneAway.dll
+C:\Vaibhav\Study\source\Exercises\OneAway\obj\Debug\netcoreapp3.1\OneAway.pdb
+C:\Vaibhav\Study\source\Exercises\OneAway\obj\Debug\netcoreapp3.1\OneAway.genruntimeconfig.cache

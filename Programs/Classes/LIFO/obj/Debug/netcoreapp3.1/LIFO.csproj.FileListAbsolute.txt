@@ -1,0 +1,13 @@
+C:\Vaibhav\Study\source\Exercises\Classes\LIFO\bin\Debug\netcoreapp3.1\LIFO.exe
+C:\Vaibhav\Study\source\Exercises\Classes\LIFO\bin\Debug\netcoreapp3.1\LIFO.deps.json
+C:\Vaibhav\Study\source\Exercises\Classes\LIFO\bin\Debug\netcoreapp3.1\LIFO.runtimeconfig.json
+C:\Vaibhav\Study\source\Exercises\Classes\LIFO\bin\Debug\netcoreapp3.1\LIFO.runtimeconfig.dev.json
+C:\Vaibhav\Study\source\Exercises\Classes\LIFO\bin\Debug\netcoreapp3.1\LIFO.dll
+C:\Vaibhav\Study\source\Exercises\Classes\LIFO\bin\Debug\netcoreapp3.1\LIFO.pdb
+C:\Vaibhav\Study\source\Exercises\Classes\LIFO\obj\Debug\netcoreapp3.1\LIFO.csprojAssemblyReference.cache
+C:\Vaibhav\Study\source\Exercises\Classes\LIFO\obj\Debug\netcoreapp3.1\LIFO.csproj.CoreCompileInputs.cache
+C:\Vaibhav\Study\source\Exercises\Classes\LIFO\obj\Debug\netcoreapp3.1\LIFO.AssemblyInfoInputs.cache
+C:\Vaibhav\Study\source\Exercises\Classes\LIFO\obj\Debug\netcoreapp3.1\LIFO.AssemblyInfo.cs
+C:\Vaibhav\Study\source\Exercises\Classes\LIFO\obj\Debug\netcoreapp3.1\LIFO.dll
+C:\Vaibhav\Study\source\Exercises\Classes\LIFO\obj\Debug\netcoreapp3.1\LIFO.pdb
+C:\Vaibhav\Study\source\Exercises\Classes\LIFO\obj\Debug\netcoreapp3.1\LIFO.genruntimeconfig.cache

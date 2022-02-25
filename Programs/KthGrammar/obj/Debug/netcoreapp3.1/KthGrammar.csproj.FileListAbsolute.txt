@@ -1,0 +1,13 @@
+C:\Vaibhav\Study\source\Exercises\KthGrammar\bin\Debug\netcoreapp3.1\KthGrammar.exe
+C:\Vaibhav\Study\source\Exercises\KthGrammar\bin\Debug\netcoreapp3.1\KthGrammar.deps.json
+C:\Vaibhav\Study\source\Exercises\KthGrammar\bin\Debug\netcoreapp3.1\KthGrammar.runtimeconfig.json
+C:\Vaibhav\Study\source\Exercises\KthGrammar\bin\Debug\netcoreapp3.1\KthGrammar.runtimeconfig.dev.json
+C:\Vaibhav\Study\source\Exercises\KthGrammar\bin\Debug\netcoreapp3.1\KthGrammar.dll
+C:\Vaibhav\Study\source\Exercises\KthGrammar\bin\Debug\netcoreapp3.1\KthGrammar.pdb
+C:\Vaibhav\Study\source\Exercises\KthGrammar\obj\Debug\netcoreapp3.1\KthGrammar.csprojAssemblyReference.cache
+C:\Vaibhav\Study\source\Exercises\KthGrammar\obj\Debug\netcoreapp3.1\KthGrammar.csproj.CoreCompileInputs.cache
+C:\Vaibhav\Study\source\Exercises\KthGrammar\obj\Debug\netcoreapp3.1\KthGrammar.AssemblyInfoInputs.cache
+C:\Vaibhav\Study\source\Exercises\KthGrammar\obj\Debug\netcoreapp3.1\KthGrammar.AssemblyInfo.cs
+C:\Vaibhav\Study\source\Exercises\KthGrammar\obj\Debug\netcoreapp3.1\KthGrammar.dll
+C:\Vaibhav\Study\source\Exercises\KthGrammar\obj\Debug\netcoreapp3.1\KthGrammar.pdb
+C:\Vaibhav\Study\source\Exercises\KthGrammar\obj\Debug\netcoreapp3.1\KthGrammar.genruntimeconfig.cache

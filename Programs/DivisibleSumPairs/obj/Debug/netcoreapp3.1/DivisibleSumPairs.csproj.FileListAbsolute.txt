@@ -1,0 +1,13 @@
+C:\Vaibhav\Study\source\Exercises\DivisibleSumPairs\bin\Debug\netcoreapp3.1\DivisibleSumPairs.exe
+C:\Vaibhav\Study\source\Exercises\DivisibleSumPairs\bin\Debug\netcoreapp3.1\DivisibleSumPairs.deps.json
+C:\Vaibhav\Study\source\Exercises\DivisibleSumPairs\bin\Debug\netcoreapp3.1\DivisibleSumPairs.runtimeconfig.json
+C:\Vaibhav\Study\source\Exercises\DivisibleSumPairs\bin\Debug\netcoreapp3.1\DivisibleSumPairs.runtimeconfig.dev.json
+C:\Vaibhav\Study\source\Exercises\DivisibleSumPairs\bin\Debug\netcoreapp3.1\DivisibleSumPairs.dll
+C:\Vaibhav\Study\source\Exercises\DivisibleSumPairs\bin\Debug\netcoreapp3.1\DivisibleSumPairs.pdb
+C:\Vaibhav\Study\source\Exercises\DivisibleSumPairs\obj\Debug\netcoreapp3.1\DivisibleSumPairs.csprojAssemblyReference.cache
+C:\Vaibhav\Study\source\Exercises\DivisibleSumPairs\obj\Debug\netcoreapp3.1\DivisibleSumPairs.csproj.CoreCompileInputs.cache
+C:\Vaibhav\Study\source\Exercises\DivisibleSumPairs\obj\Debug\netcoreapp3.1\DivisibleSumPairs.AssemblyInfoInputs.cache
+C:\Vaibhav\Study\source\Exercises\DivisibleSumPairs\obj\Debug\netcoreapp3.1\DivisibleSumPairs.AssemblyInfo.cs
+C:\Vaibhav\Study\source\Exercises\DivisibleSumPairs\obj\Debug\netcoreapp3.1\DivisibleSumPairs.dll
+C:\Vaibhav\Study\source\Exercises\DivisibleSumPairs\obj\Debug\netcoreapp3.1\DivisibleSumPairs.pdb
+C:\Vaibhav\Study\source\Exercises\DivisibleSumPairs\obj\Debug\netcoreapp3.1\DivisibleSumPairs.genruntimeconfig.cache

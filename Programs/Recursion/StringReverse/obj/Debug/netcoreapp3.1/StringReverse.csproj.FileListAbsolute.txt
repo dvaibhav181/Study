@@ -1,0 +1,13 @@
+C:\Vaibhav\Study\source\Exercises\Recursion\StringReverse\bin\Debug\netcoreapp3.1\StringReverse.exe
+C:\Vaibhav\Study\source\Exercises\Recursion\StringReverse\bin\Debug\netcoreapp3.1\StringReverse.deps.json
+C:\Vaibhav\Study\source\Exercises\Recursion\StringReverse\bin\Debug\netcoreapp3.1\StringReverse.runtimeconfig.json
+C:\Vaibhav\Study\source\Exercises\Recursion\StringReverse\bin\Debug\netcoreapp3.1\StringReverse.runtimeconfig.dev.json
+C:\Vaibhav\Study\source\Exercises\Recursion\StringReverse\bin\Debug\netcoreapp3.1\StringReverse.dll
+C:\Vaibhav\Study\source\Exercises\Recursion\StringReverse\bin\Debug\netcoreapp3.1\StringReverse.pdb
+C:\Vaibhav\Study\source\Exercises\Recursion\StringReverse\obj\Debug\netcoreapp3.1\StringReverse.csprojAssemblyReference.cache
+C:\Vaibhav\Study\source\Exercises\Recursion\StringReverse\obj\Debug\netcoreapp3.1\StringReverse.csproj.CoreCompileInputs.cache
+C:\Vaibhav\Study\source\Exercises\Recursion\StringReverse\obj\Debug\netcoreapp3.1\StringReverse.AssemblyInfoInputs.cache
+C:\Vaibhav\Study\source\Exercises\Recursion\StringReverse\obj\Debug\netcoreapp3.1\StringReverse.AssemblyInfo.cs
+C:\Vaibhav\Study\source\Exercises\Recursion\StringReverse\obj\Debug\netcoreapp3.1\StringReverse.dll
+C:\Vaibhav\Study\source\Exercises\Recursion\StringReverse\obj\Debug\netcoreapp3.1\StringReverse.pdb
+C:\Vaibhav\Study\source\Exercises\Recursion\StringReverse\obj\Debug\netcoreapp3.1\StringReverse.genruntimeconfig.cache

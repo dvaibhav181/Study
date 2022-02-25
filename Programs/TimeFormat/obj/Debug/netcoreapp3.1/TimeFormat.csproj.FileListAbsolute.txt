@@ -1,0 +1,13 @@
+C:\Vaibhav\Study\source\Exercises\TimeFormat\bin\Debug\netcoreapp3.1\TimeFormat.exe
+C:\Vaibhav\Study\source\Exercises\TimeFormat\bin\Debug\netcoreapp3.1\TimeFormat.deps.json
+C:\Vaibhav\Study\source\Exercises\TimeFormat\bin\Debug\netcoreapp3.1\TimeFormat.runtimeconfig.json
+C:\Vaibhav\Study\source\Exercises\TimeFormat\bin\Debug\netcoreapp3.1\TimeFormat.runtimeconfig.dev.json
+C:\Vaibhav\Study\source\Exercises\TimeFormat\bin\Debug\netcoreapp3.1\TimeFormat.dll
+C:\Vaibhav\Study\source\Exercises\TimeFormat\bin\Debug\netcoreapp3.1\TimeFormat.pdb
+C:\Vaibhav\Study\source\Exercises\TimeFormat\obj\Debug\netcoreapp3.1\TimeFormat.csprojAssemblyReference.cache
+C:\Vaibhav\Study\source\Exercises\TimeFormat\obj\Debug\netcoreapp3.1\TimeFormat.csproj.CoreCompileInputs.cache
+C:\Vaibhav\Study\source\Exercises\TimeFormat\obj\Debug\netcoreapp3.1\TimeFormat.AssemblyInfoInputs.cache
+C:\Vaibhav\Study\source\Exercises\TimeFormat\obj\Debug\netcoreapp3.1\TimeFormat.AssemblyInfo.cs
+C:\Vaibhav\Study\source\Exercises\TimeFormat\obj\Debug\netcoreapp3.1\TimeFormat.dll
+C:\Vaibhav\Study\source\Exercises\TimeFormat\obj\Debug\netcoreapp3.1\TimeFormat.pdb
+C:\Vaibhav\Study\source\Exercises\TimeFormat\obj\Debug\netcoreapp3.1\TimeFormat.genruntimeconfig.cache

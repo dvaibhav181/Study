@@ -1,0 +1,13 @@
+C:\Vaibhav\Study\source\Exercises\ElectronicShop\bin\Debug\netcoreapp3.1\ElectronicShop.exe
+C:\Vaibhav\Study\source\Exercises\ElectronicShop\bin\Debug\netcoreapp3.1\ElectronicShop.deps.json
+C:\Vaibhav\Study\source\Exercises\ElectronicShop\bin\Debug\netcoreapp3.1\ElectronicShop.runtimeconfig.json
+C:\Vaibhav\Study\source\Exercises\ElectronicShop\bin\Debug\netcoreapp3.1\ElectronicShop.runtimeconfig.dev.json
+C:\Vaibhav\Study\source\Exercises\ElectronicShop\bin\Debug\netcoreapp3.1\ElectronicShop.dll
+C:\Vaibhav\Study\source\Exercises\ElectronicShop\bin\Debug\netcoreapp3.1\ElectronicShop.pdb
+C:\Vaibhav\Study\source\Exercises\ElectronicShop\obj\Debug\netcoreapp3.1\ElectronicShop.csprojAssemblyReference.cache
+C:\Vaibhav\Study\source\Exercises\ElectronicShop\obj\Debug\netcoreapp3.1\ElectronicShop.csproj.CoreCompileInputs.cache
+C:\Vaibhav\Study\source\Exercises\ElectronicShop\obj\Debug\netcoreapp3.1\ElectronicShop.AssemblyInfoInputs.cache
+C:\Vaibhav\Study\source\Exercises\ElectronicShop\obj\Debug\netcoreapp3.1\ElectronicShop.AssemblyInfo.cs
+C:\Vaibhav\Study\source\Exercises\ElectronicShop\obj\Debug\netcoreapp3.1\ElectronicShop.dll
+C:\Vaibhav\Study\source\Exercises\ElectronicShop\obj\Debug\netcoreapp3.1\ElectronicShop.pdb
+C:\Vaibhav\Study\source\Exercises\ElectronicShop\obj\Debug\netcoreapp3.1\ElectronicShop.genruntimeconfig.cache

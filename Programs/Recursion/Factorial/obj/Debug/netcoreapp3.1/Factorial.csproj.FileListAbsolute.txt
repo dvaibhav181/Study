@@ -1,0 +1,13 @@
+C:\Vaibhav\Study\source\Exercises\Recursion\Factorial\bin\Debug\netcoreapp3.1\Factorial.exe
+C:\Vaibhav\Study\source\Exercises\Recursion\Factorial\bin\Debug\netcoreapp3.1\Factorial.deps.json
+C:\Vaibhav\Study\source\Exercises\Recursion\Factorial\bin\Debug\netcoreapp3.1\Factorial.runtimeconfig.json
+C:\Vaibhav\Study\source\Exercises\Recursion\Factorial\bin\Debug\netcoreapp3.1\Factorial.runtimeconfig.dev.json
+C:\Vaibhav\Study\source\Exercises\Recursion\Factorial\bin\Debug\netcoreapp3.1\Factorial.dll
+C:\Vaibhav\Study\source\Exercises\Recursion\Factorial\bin\Debug\netcoreapp3.1\Factorial.pdb
+C:\Vaibhav\Study\source\Exercises\Recursion\Factorial\obj\Debug\netcoreapp3.1\Factorial.csprojAssemblyReference.cache
+C:\Vaibhav\Study\source\Exercises\Recursion\Factorial\obj\Debug\netcoreapp3.1\Factorial.csproj.CoreCompileInputs.cache
+C:\Vaibhav\Study\source\Exercises\Recursion\Factorial\obj\Debug\netcoreapp3.1\Factorial.AssemblyInfoInputs.cache
+C:\Vaibhav\Study\source\Exercises\Recursion\Factorial\obj\Debug\netcoreapp3.1\Factorial.AssemblyInfo.cs
+C:\Vaibhav\Study\source\Exercises\Recursion\Factorial\obj\Debug\netcoreapp3.1\Factorial.dll
+C:\Vaibhav\Study\source\Exercises\Recursion\Factorial\obj\Debug\netcoreapp3.1\Factorial.pdb
+C:\Vaibhav\Study\source\Exercises\Recursion\Factorial\obj\Debug\netcoreapp3.1\Factorial.genruntimeconfig.cache

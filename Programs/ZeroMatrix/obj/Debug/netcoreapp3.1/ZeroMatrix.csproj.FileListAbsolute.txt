@@ -1,0 +1,13 @@
+C:\Vaibhav\Study\source\Exercises\ZeroMatrix\bin\Debug\netcoreapp3.1\ZeroMatrix.exe
+C:\Vaibhav\Study\source\Exercises\ZeroMatrix\bin\Debug\netcoreapp3.1\ZeroMatrix.deps.json
+C:\Vaibhav\Study\source\Exercises\ZeroMatrix\bin\Debug\netcoreapp3.1\ZeroMatrix.runtimeconfig.json
+C:\Vaibhav\Study\source\Exercises\ZeroMatrix\bin\Debug\netcoreapp3.1\ZeroMatrix.runtimeconfig.dev.json
+C:\Vaibhav\Study\source\Exercises\ZeroMatrix\bin\Debug\netcoreapp3.1\ZeroMatrix.dll
+C:\Vaibhav\Study\source\Exercises\ZeroMatrix\bin\Debug\netcoreapp3.1\ZeroMatrix.pdb
+C:\Vaibhav\Study\source\Exercises\ZeroMatrix\obj\Debug\netcoreapp3.1\ZeroMatrix.csprojAssemblyReference.cache
+C:\Vaibhav\Study\source\Exercises\ZeroMatrix\obj\Debug\netcoreapp3.1\ZeroMatrix.csproj.CoreCompileInputs.cache
+C:\Vaibhav\Study\source\Exercises\ZeroMatrix\obj\Debug\netcoreapp3.1\ZeroMatrix.AssemblyInfoInputs.cache
+C:\Vaibhav\Study\source\Exercises\ZeroMatrix\obj\Debug\netcoreapp3.1\ZeroMatrix.AssemblyInfo.cs
+C:\Vaibhav\Study\source\Exercises\ZeroMatrix\obj\Debug\netcoreapp3.1\ZeroMatrix.dll
+C:\Vaibhav\Study\source\Exercises\ZeroMatrix\obj\Debug\netcoreapp3.1\ZeroMatrix.pdb
+C:\Vaibhav\Study\source\Exercises\ZeroMatrix\obj\Debug\netcoreapp3.1\ZeroMatrix.genruntimeconfig.cache
