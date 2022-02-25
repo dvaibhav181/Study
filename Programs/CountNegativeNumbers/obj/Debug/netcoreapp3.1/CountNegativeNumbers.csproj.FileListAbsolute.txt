@@ -1,0 +1,13 @@
+C:\Vaibhav\Study\source\Exercises\CountNegativeNumbers\bin\Debug\netcoreapp3.1\CountNegativeNumbers.exe
+C:\Vaibhav\Study\source\Exercises\CountNegativeNumbers\bin\Debug\netcoreapp3.1\CountNegativeNumbers.deps.json
+C:\Vaibhav\Study\source\Exercises\CountNegativeNumbers\bin\Debug\netcoreapp3.1\CountNegativeNumbers.runtimeconfig.json
+C:\Vaibhav\Study\source\Exercises\CountNegativeNumbers\bin\Debug\netcoreapp3.1\CountNegativeNumbers.runtimeconfig.dev.json
+C:\Vaibhav\Study\source\Exercises\CountNegativeNumbers\bin\Debug\netcoreapp3.1\CountNegativeNumbers.dll
+C:\Vaibhav\Study\source\Exercises\CountNegativeNumbers\bin\Debug\netcoreapp3.1\CountNegativeNumbers.pdb
+C:\Vaibhav\Study\source\Exercises\CountNegativeNumbers\obj\Debug\netcoreapp3.1\CountNegativeNumbers.csprojAssemblyReference.cache
+C:\Vaibhav\Study\source\Exercises\CountNegativeNumbers\obj\Debug\netcoreapp3.1\CountNegativeNumbers.csproj.CoreCompileInputs.cache
+C:\Vaibhav\Study\source\Exercises\CountNegativeNumbers\obj\Debug\netcoreapp3.1\CountNegativeNumbers.AssemblyInfoInputs.cache
+C:\Vaibhav\Study\source\Exercises\CountNegativeNumbers\obj\Debug\netcoreapp3.1\CountNegativeNumbers.AssemblyInfo.cs
+C:\Vaibhav\Study\source\Exercises\CountNegativeNumbers\obj\Debug\netcoreapp3.1\CountNegativeNumbers.dll
+C:\Vaibhav\Study\source\Exercises\CountNegativeNumbers\obj\Debug\netcoreapp3.1\CountNegativeNumbers.pdb
+C:\Vaibhav\Study\source\Exercises\CountNegativeNumbers\obj\Debug\netcoreapp3.1\CountNegativeNumbers.genruntimeconfig.cache

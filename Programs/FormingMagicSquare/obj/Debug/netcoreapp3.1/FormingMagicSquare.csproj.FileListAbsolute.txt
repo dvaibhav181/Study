@@ -1,0 +1,13 @@
+C:\Vaibhav\Study\source\Exercises\FormingMagicSquare\bin\Debug\netcoreapp3.1\FormingMagicSquare.exe
+C:\Vaibhav\Study\source\Exercises\FormingMagicSquare\bin\Debug\netcoreapp3.1\FormingMagicSquare.deps.json
+C:\Vaibhav\Study\source\Exercises\FormingMagicSquare\bin\Debug\netcoreapp3.1\FormingMagicSquare.runtimeconfig.json
+C:\Vaibhav\Study\source\Exercises\FormingMagicSquare\bin\Debug\netcoreapp3.1\FormingMagicSquare.runtimeconfig.dev.json
+C:\Vaibhav\Study\source\Exercises\FormingMagicSquare\bin\Debug\netcoreapp3.1\FormingMagicSquare.dll
+C:\Vaibhav\Study\source\Exercises\FormingMagicSquare\bin\Debug\netcoreapp3.1\FormingMagicSquare.pdb
+C:\Vaibhav\Study\source\Exercises\FormingMagicSquare\obj\Debug\netcoreapp3.1\FormingMagicSquare.csprojAssemblyReference.cache
+C:\Vaibhav\Study\source\Exercises\FormingMagicSquare\obj\Debug\netcoreapp3.1\FormingMagicSquare.csproj.CoreCompileInputs.cache
+C:\Vaibhav\Study\source\Exercises\FormingMagicSquare\obj\Debug\netcoreapp3.1\FormingMagicSquare.AssemblyInfoInputs.cache
+C:\Vaibhav\Study\source\Exercises\FormingMagicSquare\obj\Debug\netcoreapp3.1\FormingMagicSquare.AssemblyInfo.cs
+C:\Vaibhav\Study\source\Exercises\FormingMagicSquare\obj\Debug\netcoreapp3.1\FormingMagicSquare.dll
+C:\Vaibhav\Study\source\Exercises\FormingMagicSquare\obj\Debug\netcoreapp3.1\FormingMagicSquare.pdb
+C:\Vaibhav\Study\source\Exercises\FormingMagicSquare\obj\Debug\netcoreapp3.1\FormingMagicSquare.genruntimeconfig.cache

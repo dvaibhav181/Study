@@ -1,0 +1,13 @@
+C:\Vaibhav\Study\source\Exercises\ReadingConsole\bin\Debug\netcoreapp3.1\ReadingConsole.exe
+C:\Vaibhav\Study\source\Exercises\ReadingConsole\bin\Debug\netcoreapp3.1\ReadingConsole.deps.json
+C:\Vaibhav\Study\source\Exercises\ReadingConsole\bin\Debug\netcoreapp3.1\ReadingConsole.runtimeconfig.json
+C:\Vaibhav\Study\source\Exercises\ReadingConsole\bin\Debug\netcoreapp3.1\ReadingConsole.runtimeconfig.dev.json
+C:\Vaibhav\Study\source\Exercises\ReadingConsole\bin\Debug\netcoreapp3.1\ReadingConsole.dll
+C:\Vaibhav\Study\source\Exercises\ReadingConsole\bin\Debug\netcoreapp3.1\ReadingConsole.pdb
+C:\Vaibhav\Study\source\Exercises\ReadingConsole\obj\Debug\netcoreapp3.1\ReadingConsole.csprojAssemblyReference.cache
+C:\Vaibhav\Study\source\Exercises\ReadingConsole\obj\Debug\netcoreapp3.1\ReadingConsole.csproj.CoreCompileInputs.cache
+C:\Vaibhav\Study\source\Exercises\ReadingConsole\obj\Debug\netcoreapp3.1\ReadingConsole.AssemblyInfoInputs.cache
+C:\Vaibhav\Study\source\Exercises\ReadingConsole\obj\Debug\netcoreapp3.1\ReadingConsole.AssemblyInfo.cs
+C:\Vaibhav\Study\source\Exercises\ReadingConsole\obj\Debug\netcoreapp3.1\ReadingConsole.dll
+C:\Vaibhav\Study\source\Exercises\ReadingConsole\obj\Debug\netcoreapp3.1\ReadingConsole.pdb
+C:\Vaibhav\Study\source\Exercises\ReadingConsole\obj\Debug\netcoreapp3.1\ReadingConsole.genruntimeconfig.cache

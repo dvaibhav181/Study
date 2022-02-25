@@ -1,0 +1,13 @@
+C:\Vaibhav\Study\source\Exercises\MinimumDistinctElements\bin\Debug\netcoreapp3.1\MinimumDistinctElements.exe
+C:\Vaibhav\Study\source\Exercises\MinimumDistinctElements\bin\Debug\netcoreapp3.1\MinimumDistinctElements.deps.json
+C:\Vaibhav\Study\source\Exercises\MinimumDistinctElements\bin\Debug\netcoreapp3.1\MinimumDistinctElements.runtimeconfig.json
+C:\Vaibhav\Study\source\Exercises\MinimumDistinctElements\bin\Debug\netcoreapp3.1\MinimumDistinctElements.runtimeconfig.dev.json
+C:\Vaibhav\Study\source\Exercises\MinimumDistinctElements\bin\Debug\netcoreapp3.1\MinimumDistinctElements.dll
+C:\Vaibhav\Study\source\Exercises\MinimumDistinctElements\bin\Debug\netcoreapp3.1\MinimumDistinctElements.pdb
+C:\Vaibhav\Study\source\Exercises\MinimumDistinctElements\obj\Debug\netcoreapp3.1\MinimumDistinctElements.csprojAssemblyReference.cache
+C:\Vaibhav\Study\source\Exercises\MinimumDistinctElements\obj\Debug\netcoreapp3.1\MinimumDistinctElements.csproj.CoreCompileInputs.cache
+C:\Vaibhav\Study\source\Exercises\MinimumDistinctElements\obj\Debug\netcoreapp3.1\MinimumDistinctElements.AssemblyInfoInputs.cache
+C:\Vaibhav\Study\source\Exercises\MinimumDistinctElements\obj\Debug\netcoreapp3.1\MinimumDistinctElements.AssemblyInfo.cs
+C:\Vaibhav\Study\source\Exercises\MinimumDistinctElements\obj\Debug\netcoreapp3.1\MinimumDistinctElements.dll
+C:\Vaibhav\Study\source\Exercises\MinimumDistinctElements\obj\Debug\netcoreapp3.1\MinimumDistinctElements.pdb
+C:\Vaibhav\Study\source\Exercises\MinimumDistinctElements\obj\Debug\netcoreapp3.1\MinimumDistinctElements.genruntimeconfig.cache

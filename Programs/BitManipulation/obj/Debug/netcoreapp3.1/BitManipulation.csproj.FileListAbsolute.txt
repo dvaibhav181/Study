@@ -1,0 +1,13 @@
+C:\Vaibhav\Study\source\Exercises\BitManipulation\bin\Debug\netcoreapp3.1\BitManipulation.exe
+C:\Vaibhav\Study\source\Exercises\BitManipulation\bin\Debug\netcoreapp3.1\BitManipulation.deps.json
+C:\Vaibhav\Study\source\Exercises\BitManipulation\bin\Debug\netcoreapp3.1\BitManipulation.runtimeconfig.json
+C:\Vaibhav\Study\source\Exercises\BitManipulation\bin\Debug\netcoreapp3.1\BitManipulation.runtimeconfig.dev.json
+C:\Vaibhav\Study\source\Exercises\BitManipulation\bin\Debug\netcoreapp3.1\BitManipulation.dll
+C:\Vaibhav\Study\source\Exercises\BitManipulation\bin\Debug\netcoreapp3.1\BitManipulation.pdb
+C:\Vaibhav\Study\source\Exercises\BitManipulation\obj\Debug\netcoreapp3.1\BitManipulation.csprojAssemblyReference.cache
+C:\Vaibhav\Study\source\Exercises\BitManipulation\obj\Debug\netcoreapp3.1\BitManipulation.csproj.CoreCompileInputs.cache
+C:\Vaibhav\Study\source\Exercises\BitManipulation\obj\Debug\netcoreapp3.1\BitManipulation.AssemblyInfoInputs.cache
+C:\Vaibhav\Study\source\Exercises\BitManipulation\obj\Debug\netcoreapp3.1\BitManipulation.AssemblyInfo.cs
+C:\Vaibhav\Study\source\Exercises\BitManipulation\obj\Debug\netcoreapp3.1\BitManipulation.dll
+C:\Vaibhav\Study\source\Exercises\BitManipulation\obj\Debug\netcoreapp3.1\BitManipulation.pdb
+C:\Vaibhav\Study\source\Exercises\BitManipulation\obj\Debug\netcoreapp3.1\BitManipulation.genruntimeconfig.cache

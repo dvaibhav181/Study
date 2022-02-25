@@ -1,0 +1,13 @@
+C:\Vaibhav\Study\source\Exercises\ReverseArray\bin\Debug\netcoreapp3.1\ReverseArray.exe
+C:\Vaibhav\Study\source\Exercises\ReverseArray\bin\Debug\netcoreapp3.1\ReverseArray.deps.json
+C:\Vaibhav\Study\source\Exercises\ReverseArray\bin\Debug\netcoreapp3.1\ReverseArray.runtimeconfig.json
+C:\Vaibhav\Study\source\Exercises\ReverseArray\bin\Debug\netcoreapp3.1\ReverseArray.runtimeconfig.dev.json
+C:\Vaibhav\Study\source\Exercises\ReverseArray\bin\Debug\netcoreapp3.1\ReverseArray.dll
+C:\Vaibhav\Study\source\Exercises\ReverseArray\bin\Debug\netcoreapp3.1\ReverseArray.pdb
+C:\Vaibhav\Study\source\Exercises\ReverseArray\obj\Debug\netcoreapp3.1\ReverseArray.csprojAssemblyReference.cache
+C:\Vaibhav\Study\source\Exercises\ReverseArray\obj\Debug\netcoreapp3.1\ReverseArray.csproj.CoreCompileInputs.cache
+C:\Vaibhav\Study\source\Exercises\ReverseArray\obj\Debug\netcoreapp3.1\ReverseArray.AssemblyInfoInputs.cache
+C:\Vaibhav\Study\source\Exercises\ReverseArray\obj\Debug\netcoreapp3.1\ReverseArray.AssemblyInfo.cs
+C:\Vaibhav\Study\source\Exercises\ReverseArray\obj\Debug\netcoreapp3.1\ReverseArray.dll
+C:\Vaibhav\Study\source\Exercises\ReverseArray\obj\Debug\netcoreapp3.1\ReverseArray.pdb
+C:\Vaibhav\Study\source\Exercises\ReverseArray\obj\Debug\netcoreapp3.1\ReverseArray.genruntimeconfig.cache

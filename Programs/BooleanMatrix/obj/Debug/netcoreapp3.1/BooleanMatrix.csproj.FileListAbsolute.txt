@@ -1,0 +1,13 @@
+C:\Vaibhav\Study\source\Exercises\BooleanMatrix\bin\Debug\netcoreapp3.1\BooleanMatrix.exe
+C:\Vaibhav\Study\source\Exercises\BooleanMatrix\bin\Debug\netcoreapp3.1\BooleanMatrix.deps.json
+C:\Vaibhav\Study\source\Exercises\BooleanMatrix\bin\Debug\netcoreapp3.1\BooleanMatrix.runtimeconfig.json
+C:\Vaibhav\Study\source\Exercises\BooleanMatrix\bin\Debug\netcoreapp3.1\BooleanMatrix.runtimeconfig.dev.json
+C:\Vaibhav\Study\source\Exercises\BooleanMatrix\bin\Debug\netcoreapp3.1\BooleanMatrix.dll
+C:\Vaibhav\Study\source\Exercises\BooleanMatrix\bin\Debug\netcoreapp3.1\BooleanMatrix.pdb
+C:\Vaibhav\Study\source\Exercises\BooleanMatrix\obj\Debug\netcoreapp3.1\BooleanMatrix.csprojAssemblyReference.cache
+C:\Vaibhav\Study\source\Exercises\BooleanMatrix\obj\Debug\netcoreapp3.1\BooleanMatrix.csproj.CoreCompileInputs.cache
+C:\Vaibhav\Study\source\Exercises\BooleanMatrix\obj\Debug\netcoreapp3.1\BooleanMatrix.AssemblyInfoInputs.cache
+C:\Vaibhav\Study\source\Exercises\BooleanMatrix\obj\Debug\netcoreapp3.1\BooleanMatrix.AssemblyInfo.cs
+C:\Vaibhav\Study\source\Exercises\BooleanMatrix\obj\Debug\netcoreapp3.1\BooleanMatrix.dll
+C:\Vaibhav\Study\source\Exercises\BooleanMatrix\obj\Debug\netcoreapp3.1\BooleanMatrix.pdb
+C:\Vaibhav\Study\source\Exercises\BooleanMatrix\obj\Debug\netcoreapp3.1\BooleanMatrix.genruntimeconfig.cache

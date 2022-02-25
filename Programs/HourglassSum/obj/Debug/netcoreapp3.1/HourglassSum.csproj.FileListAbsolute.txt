@@ -1,0 +1,13 @@
+C:\Vaibhav\Study\source\Exercises\HourglassSum\bin\Debug\netcoreapp3.1\HourglassSum.exe
+C:\Vaibhav\Study\source\Exercises\HourglassSum\bin\Debug\netcoreapp3.1\HourglassSum.deps.json
+C:\Vaibhav\Study\source\Exercises\HourglassSum\bin\Debug\netcoreapp3.1\HourglassSum.runtimeconfig.json
+C:\Vaibhav\Study\source\Exercises\HourglassSum\bin\Debug\netcoreapp3.1\HourglassSum.runtimeconfig.dev.json
+C:\Vaibhav\Study\source\Exercises\HourglassSum\bin\Debug\netcoreapp3.1\HourglassSum.dll
+C:\Vaibhav\Study\source\Exercises\HourglassSum\bin\Debug\netcoreapp3.1\HourglassSum.pdb
+C:\Vaibhav\Study\source\Exercises\HourglassSum\obj\Debug\netcoreapp3.1\HourglassSum.csprojAssemblyReference.cache
+C:\Vaibhav\Study\source\Exercises\HourglassSum\obj\Debug\netcoreapp3.1\HourglassSum.csproj.CoreCompileInputs.cache
+C:\Vaibhav\Study\source\Exercises\HourglassSum\obj\Debug\netcoreapp3.1\HourglassSum.AssemblyInfoInputs.cache
+C:\Vaibhav\Study\source\Exercises\HourglassSum\obj\Debug\netcoreapp3.1\HourglassSum.AssemblyInfo.cs
+C:\Vaibhav\Study\source\Exercises\HourglassSum\obj\Debug\netcoreapp3.1\HourglassSum.dll
+C:\Vaibhav\Study\source\Exercises\HourglassSum\obj\Debug\netcoreapp3.1\HourglassSum.pdb
+C:\Vaibhav\Study\source\Exercises\HourglassSum\obj\Debug\netcoreapp3.1\HourglassSum.genruntimeconfig.cache

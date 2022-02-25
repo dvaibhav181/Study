@@ -1,0 +1,13 @@
+C:\Vaibhav\Study\source\Exercises\RumbleInTokyo\bin\Debug\netcoreapp3.1\RumbleInTokyo.exe
+C:\Vaibhav\Study\source\Exercises\RumbleInTokyo\bin\Debug\netcoreapp3.1\RumbleInTokyo.deps.json
+C:\Vaibhav\Study\source\Exercises\RumbleInTokyo\bin\Debug\netcoreapp3.1\RumbleInTokyo.runtimeconfig.json
+C:\Vaibhav\Study\source\Exercises\RumbleInTokyo\bin\Debug\netcoreapp3.1\RumbleInTokyo.runtimeconfig.dev.json
+C:\Vaibhav\Study\source\Exercises\RumbleInTokyo\bin\Debug\netcoreapp3.1\RumbleInTokyo.dll
+C:\Vaibhav\Study\source\Exercises\RumbleInTokyo\bin\Debug\netcoreapp3.1\RumbleInTokyo.pdb
+C:\Vaibhav\Study\source\Exercises\RumbleInTokyo\obj\Debug\netcoreapp3.1\RumbleInTokyo.csprojAssemblyReference.cache
+C:\Vaibhav\Study\source\Exercises\RumbleInTokyo\obj\Debug\netcoreapp3.1\RumbleInTokyo.csproj.CoreCompileInputs.cache
+C:\Vaibhav\Study\source\Exercises\RumbleInTokyo\obj\Debug\netcoreapp3.1\RumbleInTokyo.AssemblyInfoInputs.cache
+C:\Vaibhav\Study\source\Exercises\RumbleInTokyo\obj\Debug\netcoreapp3.1\RumbleInTokyo.AssemblyInfo.cs
+C:\Vaibhav\Study\source\Exercises\RumbleInTokyo\obj\Debug\netcoreapp3.1\RumbleInTokyo.dll
+C:\Vaibhav\Study\source\Exercises\RumbleInTokyo\obj\Debug\netcoreapp3.1\RumbleInTokyo.pdb
+C:\Vaibhav\Study\source\Exercises\RumbleInTokyo\obj\Debug\netcoreapp3.1\RumbleInTokyo.genruntimeconfig.cache

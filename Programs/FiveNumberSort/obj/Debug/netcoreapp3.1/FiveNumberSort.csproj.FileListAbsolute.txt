@@ -1,0 +1,13 @@
+C:\Vaibhav\Study\source\Exercises\FiveNumberSort\bin\Debug\netcoreapp3.1\FiveNumberSort.exe
+C:\Vaibhav\Study\source\Exercises\FiveNumberSort\bin\Debug\netcoreapp3.1\FiveNumberSort.deps.json
+C:\Vaibhav\Study\source\Exercises\FiveNumberSort\bin\Debug\netcoreapp3.1\FiveNumberSort.runtimeconfig.json
+C:\Vaibhav\Study\source\Exercises\FiveNumberSort\bin\Debug\netcoreapp3.1\FiveNumberSort.runtimeconfig.dev.json
+C:\Vaibhav\Study\source\Exercises\FiveNumberSort\bin\Debug\netcoreapp3.1\FiveNumberSort.dll
+C:\Vaibhav\Study\source\Exercises\FiveNumberSort\bin\Debug\netcoreapp3.1\FiveNumberSort.pdb
+C:\Vaibhav\Study\source\Exercises\FiveNumberSort\obj\Debug\netcoreapp3.1\FiveNumberSort.csprojAssemblyReference.cache
+C:\Vaibhav\Study\source\Exercises\FiveNumberSort\obj\Debug\netcoreapp3.1\FiveNumberSort.csproj.CoreCompileInputs.cache
+C:\Vaibhav\Study\source\Exercises\FiveNumberSort\obj\Debug\netcoreapp3.1\FiveNumberSort.AssemblyInfoInputs.cache
+C:\Vaibhav\Study\source\Exercises\FiveNumberSort\obj\Debug\netcoreapp3.1\FiveNumberSort.AssemblyInfo.cs
+C:\Vaibhav\Study\source\Exercises\FiveNumberSort\obj\Debug\netcoreapp3.1\FiveNumberSort.dll
+C:\Vaibhav\Study\source\Exercises\FiveNumberSort\obj\Debug\netcoreapp3.1\FiveNumberSort.pdb
+C:\Vaibhav\Study\source\Exercises\FiveNumberSort\obj\Debug\netcoreapp3.1\FiveNumberSort.genruntimeconfig.cache

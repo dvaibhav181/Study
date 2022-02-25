@@ -1,0 +1,13 @@
+C:\Vaibhav\Study\source\Exercises\StringCompression\bin\Debug\netcoreapp3.1\StringCompression.exe
+C:\Vaibhav\Study\source\Exercises\StringCompression\bin\Debug\netcoreapp3.1\StringCompression.deps.json
+C:\Vaibhav\Study\source\Exercises\StringCompression\bin\Debug\netcoreapp3.1\StringCompression.runtimeconfig.json
+C:\Vaibhav\Study\source\Exercises\StringCompression\bin\Debug\netcoreapp3.1\StringCompression.runtimeconfig.dev.json
+C:\Vaibhav\Study\source\Exercises\StringCompression\bin\Debug\netcoreapp3.1\StringCompression.dll
+C:\Vaibhav\Study\source\Exercises\StringCompression\bin\Debug\netcoreapp3.1\StringCompression.pdb
+C:\Vaibhav\Study\source\Exercises\StringCompression\obj\Debug\netcoreapp3.1\StringCompression.csprojAssemblyReference.cache
+C:\Vaibhav\Study\source\Exercises\StringCompression\obj\Debug\netcoreapp3.1\StringCompression.csproj.CoreCompileInputs.cache
+C:\Vaibhav\Study\source\Exercises\StringCompression\obj\Debug\netcoreapp3.1\StringCompression.AssemblyInfoInputs.cache
+C:\Vaibhav\Study\source\Exercises\StringCompression\obj\Debug\netcoreapp3.1\StringCompression.AssemblyInfo.cs
+C:\Vaibhav\Study\source\Exercises\StringCompression\obj\Debug\netcoreapp3.1\StringCompression.dll
+C:\Vaibhav\Study\source\Exercises\StringCompression\obj\Debug\netcoreapp3.1\StringCompression.pdb
+C:\Vaibhav\Study\source\Exercises\StringCompression\obj\Debug\netcoreapp3.1\StringCompression.genruntimeconfig.cache

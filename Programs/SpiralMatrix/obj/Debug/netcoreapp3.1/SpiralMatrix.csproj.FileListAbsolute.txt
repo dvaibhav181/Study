@@ -1,0 +1,13 @@
+C:\Vaibhav\Study\source\Exercises\SpiralMatrix\bin\Debug\netcoreapp3.1\SpiralMatrix.exe
+C:\Vaibhav\Study\source\Exercises\SpiralMatrix\bin\Debug\netcoreapp3.1\SpiralMatrix.deps.json
+C:\Vaibhav\Study\source\Exercises\SpiralMatrix\bin\Debug\netcoreapp3.1\SpiralMatrix.runtimeconfig.json
+C:\Vaibhav\Study\source\Exercises\SpiralMatrix\bin\Debug\netcoreapp3.1\SpiralMatrix.runtimeconfig.dev.json
+C:\Vaibhav\Study\source\Exercises\SpiralMatrix\bin\Debug\netcoreapp3.1\SpiralMatrix.dll
+C:\Vaibhav\Study\source\Exercises\SpiralMatrix\bin\Debug\netcoreapp3.1\SpiralMatrix.pdb
+C:\Vaibhav\Study\source\Exercises\SpiralMatrix\obj\Debug\netcoreapp3.1\SpiralMatrix.csprojAssemblyReference.cache
+C:\Vaibhav\Study\source\Exercises\SpiralMatrix\obj\Debug\netcoreapp3.1\SpiralMatrix.csproj.CoreCompileInputs.cache
+C:\Vaibhav\Study\source\Exercises\SpiralMatrix\obj\Debug\netcoreapp3.1\SpiralMatrix.AssemblyInfoInputs.cache
+C:\Vaibhav\Study\source\Exercises\SpiralMatrix\obj\Debug\netcoreapp3.1\SpiralMatrix.AssemblyInfo.cs
+C:\Vaibhav\Study\source\Exercises\SpiralMatrix\obj\Debug\netcoreapp3.1\SpiralMatrix.dll
+C:\Vaibhav\Study\source\Exercises\SpiralMatrix\obj\Debug\netcoreapp3.1\SpiralMatrix.pdb
+C:\Vaibhav\Study\source\Exercises\SpiralMatrix\obj\Debug\netcoreapp3.1\SpiralMatrix.genruntimeconfig.cache

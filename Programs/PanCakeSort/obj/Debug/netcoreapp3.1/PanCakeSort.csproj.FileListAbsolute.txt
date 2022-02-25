@@ -1,0 +1,13 @@
+C:\Vaibhav\Study\source\Exercises\PanCakeSort\bin\Debug\netcoreapp3.1\PanCakeSort.exe
+C:\Vaibhav\Study\source\Exercises\PanCakeSort\bin\Debug\netcoreapp3.1\PanCakeSort.deps.json
+C:\Vaibhav\Study\source\Exercises\PanCakeSort\bin\Debug\netcoreapp3.1\PanCakeSort.runtimeconfig.json
+C:\Vaibhav\Study\source\Exercises\PanCakeSort\bin\Debug\netcoreapp3.1\PanCakeSort.runtimeconfig.dev.json
+C:\Vaibhav\Study\source\Exercises\PanCakeSort\bin\Debug\netcoreapp3.1\PanCakeSort.dll
+C:\Vaibhav\Study\source\Exercises\PanCakeSort\bin\Debug\netcoreapp3.1\PanCakeSort.pdb
+C:\Vaibhav\Study\source\Exercises\PanCakeSort\obj\Debug\netcoreapp3.1\PanCakeSort.csprojAssemblyReference.cache
+C:\Vaibhav\Study\source\Exercises\PanCakeSort\obj\Debug\netcoreapp3.1\PanCakeSort.csproj.CoreCompileInputs.cache
+C:\Vaibhav\Study\source\Exercises\PanCakeSort\obj\Debug\netcoreapp3.1\PanCakeSort.AssemblyInfoInputs.cache
+C:\Vaibhav\Study\source\Exercises\PanCakeSort\obj\Debug\netcoreapp3.1\PanCakeSort.AssemblyInfo.cs
+C:\Vaibhav\Study\source\Exercises\PanCakeSort\obj\Debug\netcoreapp3.1\PanCakeSort.dll
+C:\Vaibhav\Study\source\Exercises\PanCakeSort\obj\Debug\netcoreapp3.1\PanCakeSort.pdb
+C:\Vaibhav\Study\source\Exercises\PanCakeSort\obj\Debug\netcoreapp3.1\PanCakeSort.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Vaibhav\Study\source\Exercises\FlippingAnImage\obj\Debug\netcoreapp3.1\FlippingAnImage.csprojAssemblyReference.cache
+C:\Vaibhav\Study\source\Exercises\FlippingAnImage\obj\Debug\netcoreapp3.1\FlippingAnImage.csproj.CoreCompileInputs.cache
+C:\Vaibhav\Study\source\Exercises\FlippingAnImage\obj\Debug\netcoreapp3.1\FlippingAnImage.AssemblyInfoInputs.cache
+C:\Vaibhav\Study\source\Exercises\FlippingAnImage\obj\Debug\netcoreapp3.1\FlippingAnImage.AssemblyInfo.cs
+C:\Vaibhav\Study\source\Exercises\FlippingAnImage\bin\Debug\netcoreapp3.1\FlippingAnImage.exe
+C:\Vaibhav\Study\source\Exercises\FlippingAnImage\bin\Debug\netcoreapp3.1\FlippingAnImage.deps.json
+C:\Vaibhav\Study\source\Exercises\FlippingAnImage\bin\Debug\netcoreapp3.1\FlippingAnImage.runtimeconfig.json
+C:\Vaibhav\Study\source\Exercises\FlippingAnImage\bin\Debug\netcoreapp3.1\FlippingAnImage.runtimeconfig.dev.json
+C:\Vaibhav\Study\source\Exercises\FlippingAnImage\bin\Debug\netcoreapp3.1\FlippingAnImage.dll
+C:\Vaibhav\Study\source\Exercises\FlippingAnImage\bin\Debug\netcoreapp3.1\FlippingAnImage.pdb
+C:\Vaibhav\Study\source\Exercises\FlippingAnImage\obj\Debug\netcoreapp3.1\FlippingAnImage.dll
+C:\Vaibhav\Study\source\Exercises\FlippingAnImage\obj\Debug\netcoreapp3.1\FlippingAnImage.pdb
+C:\Vaibhav\Study\source\Exercises\FlippingAnImage\obj\Debug\netcoreapp3.1\FlippingAnImage.genruntimeconfig.cache

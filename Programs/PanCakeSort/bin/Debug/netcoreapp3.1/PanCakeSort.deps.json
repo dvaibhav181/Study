@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "PanCakeSort/1.0.0": {
+        "runtime": {
+          "PanCakeSort.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PanCakeSort/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,13 @@
+C:\Vaibhav\Study\source\Exercises\KthSmallest\SortSelect\obj\Debug\netcoreapp3.1\SortSelect.csprojAssemblyReference.cache
+C:\Vaibhav\Study\source\Exercises\KthSmallest\SortSelect\obj\Debug\netcoreapp3.1\SortSelect.csproj.CoreCompileInputs.cache
+C:\Vaibhav\Study\source\Exercises\KthSmallest\SortSelect\obj\Debug\netcoreapp3.1\SortSelect.AssemblyInfoInputs.cache
+C:\Vaibhav\Study\source\Exercises\KthSmallest\SortSelect\obj\Debug\netcoreapp3.1\SortSelect.AssemblyInfo.cs
+C:\Vaibhav\Study\source\Exercises\KthSmallest\SortSelect\bin\Debug\netcoreapp3.1\SortSelect.exe
+C:\Vaibhav\Study\source\Exercises\KthSmallest\SortSelect\bin\Debug\netcoreapp3.1\SortSelect.deps.json
+C:\Vaibhav\Study\source\Exercises\KthSmallest\SortSelect\bin\Debug\netcoreapp3.1\SortSelect.runtimeconfig.json
+C:\Vaibhav\Study\source\Exercises\KthSmallest\SortSelect\bin\Debug\netcoreapp3.1\SortSelect.runtimeconfig.dev.json
+C:\Vaibhav\Study\source\Exercises\KthSmallest\SortSelect\bin\Debug\netcoreapp3.1\SortSelect.dll
+C:\Vaibhav\Study\source\Exercises\KthSmallest\SortSelect\bin\Debug\netcoreapp3.1\SortSelect.pdb
+C:\Vaibhav\Study\source\Exercises\KthSmallest\SortSelect\obj\Debug\netcoreapp3.1\SortSelect.dll
+C:\Vaibhav\Study\source\Exercises\KthSmallest\SortSelect\obj\Debug\netcoreapp3.1\SortSelect.pdb
+C:\Vaibhav\Study\source\Exercises\KthSmallest\SortSelect\obj\Debug\netcoreapp3.1\SortSelect.genruntimeconfig.cache

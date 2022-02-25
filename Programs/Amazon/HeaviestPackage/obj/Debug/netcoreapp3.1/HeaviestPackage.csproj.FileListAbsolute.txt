@@ -1,0 +1,13 @@
+C:\Vaibhav\Study\source\Exercises\Amazon\HeaviestPackage\bin\Debug\netcoreapp3.1\HeaviestPackage.exe
+C:\Vaibhav\Study\source\Exercises\Amazon\HeaviestPackage\bin\Debug\netcoreapp3.1\HeaviestPackage.deps.json
+C:\Vaibhav\Study\source\Exercises\Amazon\HeaviestPackage\bin\Debug\netcoreapp3.1\HeaviestPackage.runtimeconfig.json
+C:\Vaibhav\Study\source\Exercises\Amazon\HeaviestPackage\bin\Debug\netcoreapp3.1\HeaviestPackage.runtimeconfig.dev.json
+C:\Vaibhav\Study\source\Exercises\Amazon\HeaviestPackage\bin\Debug\netcoreapp3.1\HeaviestPackage.dll
+C:\Vaibhav\Study\source\Exercises\Amazon\HeaviestPackage\bin\Debug\netcoreapp3.1\HeaviestPackage.pdb
+C:\Vaibhav\Study\source\Exercises\Amazon\HeaviestPackage\obj\Debug\netcoreapp3.1\HeaviestPackage.csprojAssemblyReference.cache
+C:\Vaibhav\Study\source\Exercises\Amazon\HeaviestPackage\obj\Debug\netcoreapp3.1\HeaviestPackage.csproj.CoreCompileInputs.cache
+C:\Vaibhav\Study\source\Exercises\Amazon\HeaviestPackage\obj\Debug\netcoreapp3.1\HeaviestPackage.AssemblyInfoInputs.cache
+C:\Vaibhav\Study\source\Exercises\Amazon\HeaviestPackage\obj\Debug\netcoreapp3.1\HeaviestPackage.AssemblyInfo.cs
+C:\Vaibhav\Study\source\Exercises\Amazon\HeaviestPackage\obj\Debug\netcoreapp3.1\HeaviestPackage.dll
+C:\Vaibhav\Study\source\Exercises\Amazon\HeaviestPackage\obj\Debug\netcoreapp3.1\HeaviestPackage.pdb
+C:\Vaibhav\Study\source\Exercises\Amazon\HeaviestPackage\obj\Debug\netcoreapp3.1\HeaviestPackage.genruntimeconfig.cache

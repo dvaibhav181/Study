@@ -1,0 +1,13 @@
+C:\Vaibhav\Study\source\Exercises\FormParagraph\bin\Debug\netcoreapp3.1\FormParagraph.exe
+C:\Vaibhav\Study\source\Exercises\FormParagraph\bin\Debug\netcoreapp3.1\FormParagraph.deps.json
+C:\Vaibhav\Study\source\Exercises\FormParagraph\bin\Debug\netcoreapp3.1\FormParagraph.runtimeconfig.json
+C:\Vaibhav\Study\source\Exercises\FormParagraph\bin\Debug\netcoreapp3.1\FormParagraph.runtimeconfig.dev.json
+C:\Vaibhav\Study\source\Exercises\FormParagraph\bin\Debug\netcoreapp3.1\FormParagraph.dll
+C:\Vaibhav\Study\source\Exercises\FormParagraph\bin\Debug\netcoreapp3.1\FormParagraph.pdb
+C:\Vaibhav\Study\source\Exercises\FormParagraph\obj\Debug\netcoreapp3.1\FormParagraph.csprojAssemblyReference.cache
+C:\Vaibhav\Study\source\Exercises\FormParagraph\obj\Debug\netcoreapp3.1\FormParagraph.csproj.CoreCompileInputs.cache
+C:\Vaibhav\Study\source\Exercises\FormParagraph\obj\Debug\netcoreapp3.1\FormParagraph.AssemblyInfoInputs.cache
+C:\Vaibhav\Study\source\Exercises\FormParagraph\obj\Debug\netcoreapp3.1\FormParagraph.AssemblyInfo.cs
+C:\Vaibhav\Study\source\Exercises\FormParagraph\obj\Debug\netcoreapp3.1\FormParagraph.dll
+C:\Vaibhav\Study\source\Exercises\FormParagraph\obj\Debug\netcoreapp3.1\FormParagraph.pdb
+C:\Vaibhav\Study\source\Exercises\FormParagraph\obj\Debug\netcoreapp3.1\FormParagraph.genruntimeconfig.cache

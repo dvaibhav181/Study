@@ -1,0 +1,13 @@
+C:\Vaibhav\Study\source\Exercises\Dictionaries\Anagrams\bin\Debug\netcoreapp3.1\Anagrams.exe
+C:\Vaibhav\Study\source\Exercises\Dictionaries\Anagrams\bin\Debug\netcoreapp3.1\Anagrams.deps.json
+C:\Vaibhav\Study\source\Exercises\Dictionaries\Anagrams\bin\Debug\netcoreapp3.1\Anagrams.runtimeconfig.json
+C:\Vaibhav\Study\source\Exercises\Dictionaries\Anagrams\bin\Debug\netcoreapp3.1\Anagrams.runtimeconfig.dev.json
+C:\Vaibhav\Study\source\Exercises\Dictionaries\Anagrams\bin\Debug\netcoreapp3.1\Anagrams.dll
+C:\Vaibhav\Study\source\Exercises\Dictionaries\Anagrams\bin\Debug\netcoreapp3.1\Anagrams.pdb
+C:\Vaibhav\Study\source\Exercises\Dictionaries\Anagrams\obj\Debug\netcoreapp3.1\Anagrams.csprojAssemblyReference.cache
+C:\Vaibhav\Study\source\Exercises\Dictionaries\Anagrams\obj\Debug\netcoreapp3.1\Anagrams.csproj.CoreCompileInputs.cache
+C:\Vaibhav\Study\source\Exercises\Dictionaries\Anagrams\obj\Debug\netcoreapp3.1\Anagrams.AssemblyInfoInputs.cache
+C:\Vaibhav\Study\source\Exercises\Dictionaries\Anagrams\obj\Debug\netcoreapp3.1\Anagrams.AssemblyInfo.cs
+C:\Vaibhav\Study\source\Exercises\Dictionaries\Anagrams\obj\Debug\netcoreapp3.1\Anagrams.dll
+C:\Vaibhav\Study\source\Exercises\Dictionaries\Anagrams\obj\Debug\netcoreapp3.1\Anagrams.pdb
+C:\Vaibhav\Study\source\Exercises\Dictionaries\Anagrams\obj\Debug\netcoreapp3.1\Anagrams.genruntimeconfig.cache

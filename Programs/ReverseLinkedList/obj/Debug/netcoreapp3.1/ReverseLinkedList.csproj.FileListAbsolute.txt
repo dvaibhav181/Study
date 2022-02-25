@@ -1,0 +1,13 @@
+C:\Vaibhav\Study\source\Exercises\ReverseLinkedList\bin\Debug\netcoreapp3.1\ReverseLinkedList.exe
+C:\Vaibhav\Study\source\Exercises\ReverseLinkedList\bin\Debug\netcoreapp3.1\ReverseLinkedList.deps.json
+C:\Vaibhav\Study\source\Exercises\ReverseLinkedList\bin\Debug\netcoreapp3.1\ReverseLinkedList.runtimeconfig.json
+C:\Vaibhav\Study\source\Exercises\ReverseLinkedList\bin\Debug\netcoreapp3.1\ReverseLinkedList.runtimeconfig.dev.json
+C:\Vaibhav\Study\source\Exercises\ReverseLinkedList\bin\Debug\netcoreapp3.1\ReverseLinkedList.dll
+C:\Vaibhav\Study\source\Exercises\ReverseLinkedList\bin\Debug\netcoreapp3.1\ReverseLinkedList.pdb
+C:\Vaibhav\Study\source\Exercises\ReverseLinkedList\obj\Debug\netcoreapp3.1\ReverseLinkedList.csprojAssemblyReference.cache
+C:\Vaibhav\Study\source\Exercises\ReverseLinkedList\obj\Debug\netcoreapp3.1\ReverseLinkedList.csproj.CoreCompileInputs.cache
+C:\Vaibhav\Study\source\Exercises\ReverseLinkedList\obj\Debug\netcoreapp3.1\ReverseLinkedList.AssemblyInfoInputs.cache
+C:\Vaibhav\Study\source\Exercises\ReverseLinkedList\obj\Debug\netcoreapp3.1\ReverseLinkedList.AssemblyInfo.cs
+C:\Vaibhav\Study\source\Exercises\ReverseLinkedList\obj\Debug\netcoreapp3.1\ReverseLinkedList.dll
+C:\Vaibhav\Study\source\Exercises\ReverseLinkedList\obj\Debug\netcoreapp3.1\ReverseLinkedList.pdb
+C:\Vaibhav\Study\source\Exercises\ReverseLinkedList\obj\Debug\netcoreapp3.1\ReverseLinkedList.genruntimeconfig.cache

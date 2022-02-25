@@ -1,0 +1,13 @@
+C:\Vaibhav\Study\source\Exercises\FirstRecurringCharacter\bin\Debug\netcoreapp3.1\FirstRecurringCharacter.exe
+C:\Vaibhav\Study\source\Exercises\FirstRecurringCharacter\bin\Debug\netcoreapp3.1\FirstRecurringCharacter.deps.json
+C:\Vaibhav\Study\source\Exercises\FirstRecurringCharacter\bin\Debug\netcoreapp3.1\FirstRecurringCharacter.runtimeconfig.json
+C:\Vaibhav\Study\source\Exercises\FirstRecurringCharacter\bin\Debug\netcoreapp3.1\FirstRecurringCharacter.runtimeconfig.dev.json
+C:\Vaibhav\Study\source\Exercises\FirstRecurringCharacter\bin\Debug\netcoreapp3.1\FirstRecurringCharacter.dll
+C:\Vaibhav\Study\source\Exercises\FirstRecurringCharacter\bin\Debug\netcoreapp3.1\FirstRecurringCharacter.pdb
+C:\Vaibhav\Study\source\Exercises\FirstRecurringCharacter\obj\Debug\netcoreapp3.1\FirstRecurringCharacter.csprojAssemblyReference.cache
+C:\Vaibhav\Study\source\Exercises\FirstRecurringCharacter\obj\Debug\netcoreapp3.1\FirstRecurringCharacter.csproj.CoreCompileInputs.cache
+C:\Vaibhav\Study\source\Exercises\FirstRecurringCharacter\obj\Debug\netcoreapp3.1\FirstRecurringCharacter.AssemblyInfoInputs.cache
+C:\Vaibhav\Study\source\Exercises\FirstRecurringCharacter\obj\Debug\netcoreapp3.1\FirstRecurringCharacter.AssemblyInfo.cs
+C:\Vaibhav\Study\source\Exercises\FirstRecurringCharacter\obj\Debug\netcoreapp3.1\FirstRecurringCharacter.dll
+C:\Vaibhav\Study\source\Exercises\FirstRecurringCharacter\obj\Debug\netcoreapp3.1\FirstRecurringCharacter.pdb
+C:\Vaibhav\Study\source\Exercises\FirstRecurringCharacter\obj\Debug\netcoreapp3.1\FirstRecurringCharacter.genruntimeconfig.cache

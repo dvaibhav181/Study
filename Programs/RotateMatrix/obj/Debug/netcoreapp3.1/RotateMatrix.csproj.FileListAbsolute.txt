@@ -1,0 +1,13 @@
+C:\Vaibhav\Study\source\Exercises\RotateMatrix\bin\Debug\netcoreapp3.1\RotateMatrix.exe
+C:\Vaibhav\Study\source\Exercises\RotateMatrix\bin\Debug\netcoreapp3.1\RotateMatrix.deps.json
+C:\Vaibhav\Study\source\Exercises\RotateMatrix\bin\Debug\netcoreapp3.1\RotateMatrix.runtimeconfig.json
+C:\Vaibhav\Study\source\Exercises\RotateMatrix\bin\Debug\netcoreapp3.1\RotateMatrix.runtimeconfig.dev.json
+C:\Vaibhav\Study\source\Exercises\RotateMatrix\bin\Debug\netcoreapp3.1\RotateMatrix.dll
+C:\Vaibhav\Study\source\Exercises\RotateMatrix\bin\Debug\netcoreapp3.1\RotateMatrix.pdb
+C:\Vaibhav\Study\source\Exercises\RotateMatrix\obj\Debug\netcoreapp3.1\RotateMatrix.csprojAssemblyReference.cache
+C:\Vaibhav\Study\source\Exercises\RotateMatrix\obj\Debug\netcoreapp3.1\RotateMatrix.csproj.CoreCompileInputs.cache
+C:\Vaibhav\Study\source\Exercises\RotateMatrix\obj\Debug\netcoreapp3.1\RotateMatrix.AssemblyInfoInputs.cache
+C:\Vaibhav\Study\source\Exercises\RotateMatrix\obj\Debug\netcoreapp3.1\RotateMatrix.AssemblyInfo.cs
+C:\Vaibhav\Study\source\Exercises\RotateMatrix\obj\Debug\netcoreapp3.1\RotateMatrix.dll
+C:\Vaibhav\Study\source\Exercises\RotateMatrix\obj\Debug\netcoreapp3.1\RotateMatrix.pdb
+C:\Vaibhav\Study\source\Exercises\RotateMatrix\obj\Debug\netcoreapp3.1\RotateMatrix.genruntimeconfig.cache

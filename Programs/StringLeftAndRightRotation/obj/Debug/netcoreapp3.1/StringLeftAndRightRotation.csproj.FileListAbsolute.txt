@@ -1,0 +1,13 @@
+C:\Vaibhav\Study\source\Exercises\StringLeftAndRightRotation\bin\Debug\netcoreapp3.1\StringLeftAndRightRotation.exe
+C:\Vaibhav\Study\source\Exercises\StringLeftAndRightRotation\bin\Debug\netcoreapp3.1\StringLeftAndRightRotation.deps.json
+C:\Vaibhav\Study\source\Exercises\StringLeftAndRightRotation\bin\Debug\netcoreapp3.1\StringLeftAndRightRotation.runtimeconfig.json
+C:\Vaibhav\Study\source\Exercises\StringLeftAndRightRotation\bin\Debug\netcoreapp3.1\StringLeftAndRightRotation.runtimeconfig.dev.json
+C:\Vaibhav\Study\source\Exercises\StringLeftAndRightRotation\bin\Debug\netcoreapp3.1\StringLeftAndRightRotation.dll
+C:\Vaibhav\Study\source\Exercises\StringLeftAndRightRotation\bin\Debug\netcoreapp3.1\StringLeftAndRightRotation.pdb
+C:\Vaibhav\Study\source\Exercises\StringLeftAndRightRotation\obj\Debug\netcoreapp3.1\StringLeftAndRightRotation.csprojAssemblyReference.cache
+C:\Vaibhav\Study\source\Exercises\StringLeftAndRightRotation\obj\Debug\netcoreapp3.1\StringLeftAndRightRotation.csproj.CoreCompileInputs.cache
+C:\Vaibhav\Study\source\Exercises\StringLeftAndRightRotation\obj\Debug\netcoreapp3.1\StringLeftAndRightRotation.AssemblyInfoInputs.cache
+C:\Vaibhav\Study\source\Exercises\StringLeftAndRightRotation\obj\Debug\netcoreapp3.1\StringLeftAndRightRotation.AssemblyInfo.cs
+C:\Vaibhav\Study\source\Exercises\StringLeftAndRightRotation\obj\Debug\netcoreapp3.1\StringLeftAndRightRotation.dll
+C:\Vaibhav\Study\source\Exercises\StringLeftAndRightRotation\obj\Debug\netcoreapp3.1\StringLeftAndRightRotation.pdb
+C:\Vaibhav\Study\source\Exercises\StringLeftAndRightRotation\obj\Debug\netcoreapp3.1\StringLeftAndRightRotation.genruntimeconfig.cache

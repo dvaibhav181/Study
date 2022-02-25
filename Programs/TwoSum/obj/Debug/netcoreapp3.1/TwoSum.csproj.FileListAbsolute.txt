@@ -1,0 +1,13 @@
+C:\Vaibhav\Study\source\Exercises\TwoSum\bin\Debug\netcoreapp3.1\TwoSum.exe
+C:\Vaibhav\Study\source\Exercises\TwoSum\bin\Debug\netcoreapp3.1\TwoSum.deps.json
+C:\Vaibhav\Study\source\Exercises\TwoSum\bin\Debug\netcoreapp3.1\TwoSum.runtimeconfig.json
+C:\Vaibhav\Study\source\Exercises\TwoSum\bin\Debug\netcoreapp3.1\TwoSum.runtimeconfig.dev.json
+C:\Vaibhav\Study\source\Exercises\TwoSum\bin\Debug\netcoreapp3.1\TwoSum.dll
+C:\Vaibhav\Study\source\Exercises\TwoSum\bin\Debug\netcoreapp3.1\TwoSum.pdb
+C:\Vaibhav\Study\source\Exercises\TwoSum\obj\Debug\netcoreapp3.1\TwoSum.csprojAssemblyReference.cache
+C:\Vaibhav\Study\source\Exercises\TwoSum\obj\Debug\netcoreapp3.1\TwoSum.csproj.CoreCompileInputs.cache
+C:\Vaibhav\Study\source\Exercises\TwoSum\obj\Debug\netcoreapp3.1\TwoSum.AssemblyInfoInputs.cache
+C:\Vaibhav\Study\source\Exercises\TwoSum\obj\Debug\netcoreapp3.1\TwoSum.AssemblyInfo.cs
+C:\Vaibhav\Study\source\Exercises\TwoSum\obj\Debug\netcoreapp3.1\TwoSum.dll
+C:\Vaibhav\Study\source\Exercises\TwoSum\obj\Debug\netcoreapp3.1\TwoSum.pdb
+C:\Vaibhav\Study\source\Exercises\TwoSum\obj\Debug\netcoreapp3.1\TwoSum.genruntimeconfig.cache

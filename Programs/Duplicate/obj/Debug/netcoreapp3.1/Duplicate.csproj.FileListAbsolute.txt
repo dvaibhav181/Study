@@ -1,0 +1,13 @@
+C:\Vaibhav\Study\source\Exercises\Duplicate\bin\Debug\netcoreapp3.1\Duplicate.exe
+C:\Vaibhav\Study\source\Exercises\Duplicate\bin\Debug\netcoreapp3.1\Duplicate.deps.json
+C:\Vaibhav\Study\source\Exercises\Duplicate\bin\Debug\netcoreapp3.1\Duplicate.runtimeconfig.json
+C:\Vaibhav\Study\source\Exercises\Duplicate\bin\Debug\netcoreapp3.1\Duplicate.runtimeconfig.dev.json
+C:\Vaibhav\Study\source\Exercises\Duplicate\bin\Debug\netcoreapp3.1\Duplicate.dll
+C:\Vaibhav\Study\source\Exercises\Duplicate\bin\Debug\netcoreapp3.1\Duplicate.pdb
+C:\Vaibhav\Study\source\Exercises\Duplicate\obj\Debug\netcoreapp3.1\Duplicate.csprojAssemblyReference.cache
+C:\Vaibhav\Study\source\Exercises\Duplicate\obj\Debug\netcoreapp3.1\Duplicate.csproj.CoreCompileInputs.cache
+C:\Vaibhav\Study\source\Exercises\Duplicate\obj\Debug\netcoreapp3.1\Duplicate.AssemblyInfoInputs.cache
+C:\Vaibhav\Study\source\Exercises\Duplicate\obj\Debug\netcoreapp3.1\Duplicate.AssemblyInfo.cs
+C:\Vaibhav\Study\source\Exercises\Duplicate\obj\Debug\netcoreapp3.1\Duplicate.dll
+C:\Vaibhav\Study\source\Exercises\Duplicate\obj\Debug\netcoreapp3.1\Duplicate.pdb
+C:\Vaibhav\Study\source\Exercises\Duplicate\obj\Debug\netcoreapp3.1\Duplicate.genruntimeconfig.cache

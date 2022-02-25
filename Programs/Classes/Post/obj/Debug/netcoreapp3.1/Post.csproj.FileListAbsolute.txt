@@ -1,0 +1,13 @@
+C:\Vaibhav\Study\source\Exercises\Classes\Post\bin\Debug\netcoreapp3.1\Post.exe
+C:\Vaibhav\Study\source\Exercises\Classes\Post\bin\Debug\netcoreapp3.1\Post.deps.json
+C:\Vaibhav\Study\source\Exercises\Classes\Post\bin\Debug\netcoreapp3.1\Post.runtimeconfig.json
+C:\Vaibhav\Study\source\Exercises\Classes\Post\bin\Debug\netcoreapp3.1\Post.runtimeconfig.dev.json
+C:\Vaibhav\Study\source\Exercises\Classes\Post\bin\Debug\netcoreapp3.1\Post.dll
+C:\Vaibhav\Study\source\Exercises\Classes\Post\bin\Debug\netcoreapp3.1\Post.pdb
+C:\Vaibhav\Study\source\Exercises\Classes\Post\obj\Debug\netcoreapp3.1\Post.csprojAssemblyReference.cache
+C:\Vaibhav\Study\source\Exercises\Classes\Post\obj\Debug\netcoreapp3.1\Post.csproj.CoreCompileInputs.cache
+C:\Vaibhav\Study\source\Exercises\Classes\Post\obj\Debug\netcoreapp3.1\Post.AssemblyInfoInputs.cache
+C:\Vaibhav\Study\source\Exercises\Classes\Post\obj\Debug\netcoreapp3.1\Post.AssemblyInfo.cs
+C:\Vaibhav\Study\source\Exercises\Classes\Post\obj\Debug\netcoreapp3.1\Post.dll
+C:\Vaibhav\Study\source\Exercises\Classes\Post\obj\Debug\netcoreapp3.1\Post.pdb
+C:\Vaibhav\Study\source\Exercises\Classes\Post\obj\Debug\netcoreapp3.1\Post.genruntimeconfig.cache

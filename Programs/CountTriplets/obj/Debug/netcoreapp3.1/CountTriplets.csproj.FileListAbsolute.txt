@@ -1,0 +1,13 @@
+C:\Vaibhav\Study\source\Exercises\CountTriplets\bin\Debug\netcoreapp3.1\CountTriplets.exe
+C:\Vaibhav\Study\source\Exercises\CountTriplets\bin\Debug\netcoreapp3.1\CountTriplets.deps.json
+C:\Vaibhav\Study\source\Exercises\CountTriplets\bin\Debug\netcoreapp3.1\CountTriplets.runtimeconfig.json
+C:\Vaibhav\Study\source\Exercises\CountTriplets\bin\Debug\netcoreapp3.1\CountTriplets.runtimeconfig.dev.json
+C:\Vaibhav\Study\source\Exercises\CountTriplets\bin\Debug\netcoreapp3.1\CountTriplets.dll
+C:\Vaibhav\Study\source\Exercises\CountTriplets\bin\Debug\netcoreapp3.1\CountTriplets.pdb
+C:\Vaibhav\Study\source\Exercises\CountTriplets\obj\Debug\netcoreapp3.1\CountTriplets.csprojAssemblyReference.cache
+C:\Vaibhav\Study\source\Exercises\CountTriplets\obj\Debug\netcoreapp3.1\CountTriplets.csproj.CoreCompileInputs.cache
+C:\Vaibhav\Study\source\Exercises\CountTriplets\obj\Debug\netcoreapp3.1\CountTriplets.AssemblyInfoInputs.cache
+C:\Vaibhav\Study\source\Exercises\CountTriplets\obj\Debug\netcoreapp3.1\CountTriplets.AssemblyInfo.cs
+C:\Vaibhav\Study\source\Exercises\CountTriplets\obj\Debug\netcoreapp3.1\CountTriplets.dll
+C:\Vaibhav\Study\source\Exercises\CountTriplets\obj\Debug\netcoreapp3.1\CountTriplets.pdb
+C:\Vaibhav\Study\source\Exercises\CountTriplets\obj\Debug\netcoreapp3.1\CountTriplets.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Vaibhav\Study\source\Exercises\ArrayManipulation\bin\Debug\netcoreapp3.1\ArrayManipulation.exe
+C:\Vaibhav\Study\source\Exercises\ArrayManipulation\bin\Debug\netcoreapp3.1\ArrayManipulation.deps.json
+C:\Vaibhav\Study\source\Exercises\ArrayManipulation\bin\Debug\netcoreapp3.1\ArrayManipulation.runtimeconfig.json
+C:\Vaibhav\Study\source\Exercises\ArrayManipulation\bin\Debug\netcoreapp3.1\ArrayManipulation.runtimeconfig.dev.json
+C:\Vaibhav\Study\source\Exercises\ArrayManipulation\bin\Debug\netcoreapp3.1\ArrayManipulation.dll
+C:\Vaibhav\Study\source\Exercises\ArrayManipulation\bin\Debug\netcoreapp3.1\ArrayManipulation.pdb
+C:\Vaibhav\Study\source\Exercises\ArrayManipulation\obj\Debug\netcoreapp3.1\ArrayManipulation.csprojAssemblyReference.cache
+C:\Vaibhav\Study\source\Exercises\ArrayManipulation\obj\Debug\netcoreapp3.1\ArrayManipulation.csproj.CoreCompileInputs.cache
+C:\Vaibhav\Study\source\Exercises\ArrayManipulation\obj\Debug\netcoreapp3.1\ArrayManipulation.AssemblyInfoInputs.cache
+C:\Vaibhav\Study\source\Exercises\ArrayManipulation\obj\Debug\netcoreapp3.1\ArrayManipulation.AssemblyInfo.cs
+C:\Vaibhav\Study\source\Exercises\ArrayManipulation\obj\Debug\netcoreapp3.1\ArrayManipulation.dll
+C:\Vaibhav\Study\source\Exercises\ArrayManipulation\obj\Debug\netcoreapp3.1\ArrayManipulation.pdb
+C:\Vaibhav\Study\source\Exercises\ArrayManipulation\obj\Debug\netcoreapp3.1\ArrayManipulation.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Vaibhav\Study\source\Exercises\BST\bin\Debug\netcoreapp3.1\BST.exe
+C:\Vaibhav\Study\source\Exercises\BST\bin\Debug\netcoreapp3.1\BST.deps.json
+C:\Vaibhav\Study\source\Exercises\BST\bin\Debug\netcoreapp3.1\BST.runtimeconfig.json
+C:\Vaibhav\Study\source\Exercises\BST\bin\Debug\netcoreapp3.1\BST.runtimeconfig.dev.json
+C:\Vaibhav\Study\source\Exercises\BST\bin\Debug\netcoreapp3.1\BST.dll
+C:\Vaibhav\Study\source\Exercises\BST\bin\Debug\netcoreapp3.1\BST.pdb
+C:\Vaibhav\Study\source\Exercises\BST\obj\Debug\netcoreapp3.1\BST.csprojAssemblyReference.cache
+C:\Vaibhav\Study\source\Exercises\BST\obj\Debug\netcoreapp3.1\BST.csproj.CoreCompileInputs.cache
+C:\Vaibhav\Study\source\Exercises\BST\obj\Debug\netcoreapp3.1\BST.AssemblyInfoInputs.cache
+C:\Vaibhav\Study\source\Exercises\BST\obj\Debug\netcoreapp3.1\BST.AssemblyInfo.cs
+C:\Vaibhav\Study\source\Exercises\BST\obj\Debug\netcoreapp3.1\BST.dll
+C:\Vaibhav\Study\source\Exercises\BST\obj\Debug\netcoreapp3.1\BST.pdb
+C:\Vaibhav\Study\source\Exercises\BST\obj\Debug\netcoreapp3.1\BST.genruntimeconfig.cache
